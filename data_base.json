@@ -1,1 +1,3407 @@
-{}
+{
+   "https://glavnii-master.ru/": {
+      "click_0": "/html/body/div/div[9]/div[5]/div/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/div/div[1]/div/div/div/div/div[2]/input",
+      "input_1": [
+         "/html/body/div/div[9]/div[5]/div/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/div/div[1]/div/div/div/div/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div/div[9]/div[5]/div/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/div/div[2]/div/div/div/div/div[2]/input",
+      "input_3": [
+         "/html/body/div/div[9]/div[5]/div/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/div/div[2]/div/div/div/div/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div/div[9]/div[5]/div/div/div[2]/div/div[2]/div/div/div/div/div[1]/div/div/div[3]/div/div/div/div/div/button/span[2]"
+   },
+   "https://mastervdom.ru/uslugi-elektrika/": {
+      "click_0": "/html/body/div[2]/div/div/div[3]/div[2]/div/form/div[2]/div[1]/span/input",
+      "input_1": [
+         "/html/body/div[2]/div/div/div[3]/div[2]/div/form/div[2]/div[1]/span/input",
+         "phone"
+      ],
+      "click_2": "/html/body/div[2]/div/div/div[3]/div[2]/div/form/div[2]/div[2]/button"
+   },
+   "https://www.sm-stomatology.ru/": {
+      "click_0": "/html/body/div[1]/div/div[4]/div/div/div/div/form/div[2]/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div/div[4]/div/div/div/div/form/div[2]/div/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div/div[4]/div/div/div/div/form/div[2]/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div/div[4]/div/div/div/div/form/div[2]/div/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div/div[4]/div/div/div/div/form/div[3]/div/button"
+   },
+   "https://mc-allon4.ru/": {
+      "click_0": "/html/body/div[1]/div[25]/div/div/div[1]/form/div/div[2]/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[25]/div/div/div[1]/form/div/div[2]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[25]/div/div/div[1]/form/div/div[2]/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[25]/div/div/div[1]/form/div/div[2]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[25]/div/div/div[1]/form/div/div[3]/div[1]/button/span"
+   },
+   "https://familydoctor.ru/direction/stomatology/": {
+      "click_0": "/html/body/div[2]/div[3]/article/div[2]/section[3]/div[2]/form/input",
+      "input_1": [
+         "/html/body/div[2]/div[3]/article/div[2]/section[3]/div[2]/form/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[2]/div[3]/article/div[2]/section[3]/div[2]/form/button"
+   },
+   "https://vimontale.ru/": {
+      "click_0": "/html/body/div[3]/header/div/div[3]/div[1]/div[4]/span",
+      "click_1": "/html/body/div[6]/form/div[3]/input",
+      "input_2": [
+         "/html/body/div[6]/form/div[3]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[6]/form/div[4]/input",
+      "input_4": [
+         "/html/body/div[6]/form/div[4]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[6]/form/div[5]/button/span[2]"
+   },
+   "https://1doctor.ru/stomatologiya/": {
+      "click_0": "/html/body/div[1]/div[3]/div[2]/div/div/div/div[2]/form/div[1]/fieldset/div/input",
+      "input_1": [
+         "/html/body/div[1]/div[3]/div[2]/div/div/div/div[2]/form/div[1]/fieldset/div/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[3]/div[2]/div/div/div/div[2]/form/div[2]/fieldset/div/input",
+      "input_3": [
+         "/html/body/div[1]/div[3]/div[2]/div/div/div/div[2]/form/div[2]/fieldset/div/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[3]/div[2]/div/div/div/div[2]/form/div[3]/input"
+   },
+   "https://sk-service1.ru/": {
+      "click_0": "/html/body/div[1]/header/div/div/div[2]/div/div[2]/div/button",
+      "click_1": "/html/body/div[1]/div[1]/div/form/label[1]/input",
+      "input_2": [
+         "/html/body/div[1]/div[1]/div/form/label[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[1]/div/form/label[2]/input",
+      "input_4": [
+         "/html/body/div[1]/div[1]/div/form/label[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div[1]/div/form/button"
+   },
+   "https://vivadent.moscow/": {
+      "click_0": "/html/body/footer/div/div/div/div[4]/div[1]/a",
+      "click_1": "/html/body/div[2]/form/input[3]",
+      "input_2": [
+         "/html/body/div[2]/form/input[3]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/form/input[4]",
+      "input_4": [
+         "/html/body/div[2]/form/input[4]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/form/input[5]"
+   },
+   " https://gm-msk.ru/": {
+      "click_0": "/html/body/div[6]/div/div[2]/a/div",
+      "click_1": "/html/body/div[7]/div/div/div/div/div/div/div[2]/form/p[1]/span[1]/input",
+      "input_2": [
+         "/html/body/div[7]/div/div/div/div/div/div/div[2]/form/p[1]/span[1]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[7]/div/div/div/div/div/div/div[2]/form/p[1]/span[2]/input",
+      "input_4": [
+         "/html/body/div[7]/div/div/div/div/div/div/div[2]/form/p[1]/span[2]/input",
+         "name"
+      ],
+      "click_5": "/html/body/div[7]/div/div/div/div/div/div/div[2]/form/p[1]/input"
+   },
+   "https://www.mosperevozki.com/uslugi/sborshchiki-mebeli/": {
+      "click_0": "/html/body/header/div/div[1]/div[2]/div[1]/div[1]/a[2]",
+      "click_1": "/html/body/div[1]/div[1]/div/div/div[2]/div/form/p[1]/label/span/input",
+      "input_2": [
+         "/html/body/div[1]/div[1]/div/div/div[2]/div/form/p[1]/label/span/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[1]/div[1]/div/div/div[2]/div/form/p[3]/input"
+   },
+   "https://gembo-sborka.ru/uslugi/sborka-mebeli/": {
+      "click_0": "/html/body/header/div[1]/div/div[7]/a/span",
+      "click_1": "/html/body/header/div[4]/div/div/div[2]/form/div[1]/input",
+      "input_2": [
+         "/html/body/header/div[4]/div/div/div[2]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/header/div[4]/div/div/div[2]/form/div[2]/input",
+      "input_4": [
+         "/html/body/header/div[4]/div/div/div[2]/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/header/div[4]/div/div/div[2]/form/div[4]/button"
+   },
+   "https://ku-hni.ru/": {
+      "click_0": "/html/body/div[2]/div/section/div/div/div/div/div/div/div/section[1]/div/div[2]/div/div[1]/div/div/div/a/div[4]/span",
+      "click_1": "/html/body/div[6]/div/div[2]/div/div/section/div/div/div/div[2]/div/form/div/div[2]/input",
+      "input_2": [
+         "/html/body/div[6]/div/div[2]/div/div/section/div/div/div/div[2]/div/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[6]/div/div[2]/div/div/section/div/div/div/div[2]/div/form/div/div[6]/button"
+   },
+   "https://vsegdaispraven.ru/": {
+      "click_0": "/html/body/div/div[1]/div[2]/div/div/div/div/div[6]/div/div/div[1]/div/button/div[2]/span",
+      "click_1": "/html/body/div/div[10]/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div/div[2]/input",
+      "input_2": [
+         "/html/body/div/div[10]/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div/div[2]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div/div[10]/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div/div/button/div[2]/span"
+   },
+   "https://problem-v-dome.net/catalog/sborka-mebeli.html": {
+      "click_0": "/html/body/div[1]/div/div[3]/div[2]/div[4]",
+      "click_1": "/html/body/div[6]/div/div[2]/div/div[2]/div/form/div[3]/table/tbody/tr[1]/td/div/i/b/input",
+      "input_2": [
+         "/html/body/div[6]/div/div[2]/div/div[2]/div/form/div[3]/table/tbody/tr[1]/td/div/i/b/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[6]/div/div[2]/div/div[2]/div/form/div[3]/table/tbody/tr[2]/td/div/i/b/input",
+      "input_4": [
+         "/html/body/div[6]/div/div[2]/div/div[2]/div/form/div[3]/table/tbody/tr[2]/td/div/i/b/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[6]/div/div[2]/div/div[2]/div/form/div[3]/table/tbody/tr[4]/td/div/button"
+   },
+   "https://myzh-na-chas.moscow/": {
+      "click_0": "/html/body/div[2]/div/div/div[6]/form/div/div[4]/input",
+      "input_1": [
+         "/html/body/div[2]/div/div/div[6]/form/div/div[4]/input",
+         "phone"
+      ],
+      "click_2": "/html/body/div[2]/div/div/div[6]/form/div/div[5]/input"
+   },
+   "https://ecoline77.ru/uslugi/sborka-mebeli/": {
+      "click_0": "/html/body/div/div[1]/div[2]/div[2]/div/div/div/form/div/div[2]/input",
+      "input_1": [
+         "/html/body/div/div[1]/div[2]/div[2]/div/div/div/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_2": "/html/body/div/div[1]/div[2]/div[2]/div/div/div/form/div/div[3]/div/span/input",
+      "click_3": "/html/body/div/div[1]/div[2]/div[2]/div/div/div/form/div/div[5]/button"
+   },
+   "https://sansalon-msk.ru/": {
+      "click_0": "/html/body/div[4]/div/div/main/div/article/div/div[1]/div[4]/div/div/div/div/div/div/div/div/form/div[2]/div[1]/div/span/input",
+      "input_1": [
+         "/html/body/div[4]/div/div/main/div/article/div/div[1]/div[4]/div/div/div/div/div/div/div/div/form/div[2]/div[1]/div/span/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[4]/div/div/main/div/article/div/div[1]/div[4]/div/div/div/div/div/div/div/div/form/div[2]/div[2]/div/span/input",
+      "input_3": [
+         "/html/body/div[4]/div/div/main/div/article/div/div[1]/div[4]/div/div/div/div/div/div/div/div/form/div[2]/div[2]/div/span/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[4]/div/div/main/div/article/div/div[1]/div[4]/div/div/div/div/div/div/div/div/form/div[2]/div[4]/div/input"
+   },
+   "https://muznachas.org/uslugi/sborka-mebeli.html#order": {
+      "click_0": "/html/body/div[1]/main/div/section/article/div/div[2]/div/div/div/div[1]/div[4]/form/p[2]/span/input",
+      "input_1": [
+         "/html/body/div[1]/main/div/section/article/div/div[2]/div/div/div/div[1]/div[4]/form/p[2]/span/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/main/div/section/article/div/div[2]/div/div/div/div[1]/div[4]/form/p[3]/span/input",
+      "input_3": [
+         "/html/body/div[1]/main/div/section/article/div/div[2]/div/div/div/div[1]/div[4]/form/p[3]/span/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/main/div/section/article/div/div[2]/div/div/div/div[1]/div[4]/form/p[5]/span[2]/span/span/input",
+      "click_5": "/html/body/div[1]/main/div/section/article/div/div[2]/div/div/div/div[1]/div[4]/form/p[6]/span/input"
+   },
+   "https://gruzchik-good.ru/sborka-mebeli-na-domu/": {
+      "click_0": "/html/body/div[1]/header/div[1]/div/div/div[2]/div/div[1]/div/button",
+      "click_1": "/html/body/div[1]/div[1]/div/div/div/form/div[2]/div[2]/span/input",
+      "input_2": [
+         "/html/body/div[1]/div[1]/div/div/div/form/div[2]/div[2]/span/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[1]/div/div/div/form/div[2]/div[3]/span/input",
+      "input_4": [
+         "/html/body/div[1]/div[1]/div/div/div/form/div[2]/div[3]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div[1]/div/div/div/form/div[2]/div[4]/div/input"
+   },
+   "https://boris24.ru/": {
+      "click_0": "/html/body/div/div/div/div[5]/div/div[1]/div/div[1]/div[3]/div",
+      "click_1": "/html/body/div[1]/div/div/div[6]/div[2]/form/div[1]/div[1]/input",
+      "input_2": [
+         "/html/body/div[1]/div/div/div[6]/div[2]/form/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div/div/div[6]/div[2]/form/div[1]/div[2]/input",
+      "input_4": [
+         "/html/body/div[1]/div/div/div[6]/div[2]/form/div[1]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div/div/div[6]/div[2]/form/div[2]/button"
+   },
+   "https://mosbyt-service.ru/": {
+      "click_0": "/html/body/div[1]/header/a[1]",
+      "click_1": "/html/body/div[3]/form/input[1]",
+      "input_2": [
+         "/html/body/div[3]/form/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/form/input[2]",
+      "input_4": [
+         "/html/body/div[3]/form/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/form/input[3]"
+   },
+   "https://mbr-group-msk.com/": {
+      "click_0": "/html/body/main/section[4]/div/div/div[3]/form/input",
+      "input_1": [
+         "/html/body/main/section[4]/div/div/div[3]/form/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/main/section[4]/div/div/div[3]/form/button"
+   },
+   "https://vsemastera.moscow/sborka-mebeli/": {
+      "click_0": "/html/body/div[3]/div[1]/div[2]/div/div/article/div/div[8]/div[3]/div/div/a/span",
+      "click_1": "/html/body/div[4]/div/div/div/form/p[1]/label/span/input",
+      "input_2": [
+         "/html/body/div[4]/div/div/div/form/p[1]/label/span/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[4]/div/div/div/form/p[2]/label/span/input",
+      "input_4": [
+         "/html/body/div[4]/div/div/div/form/p[2]/label/span/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[4]/div/div/div/form/p[3]/input"
+   },
+   "https://pereezd-24.com/": {
+      "click_0": "/html/body/header/div[2]/div/div[4]/a",
+      "click_1": "/html/body/div[2]/div[1]/div[2]/div[2]/div[1]/form/fieldset/div[1]/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div[1]/div[2]/div[2]/div[1]/form/fieldset/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[1]/div[2]/div[2]/div[1]/form/fieldset/div[1]/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div[1]/div[2]/div[2]/div[1]/form/fieldset/div[1]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div[1]/div[2]/div[2]/div[1]/form/fieldset/div[3]/span"
+   },
+   "https://prostopereezd.ru": {
+      "click_0": "/html/body/div[1]/div[1]/div[3]/div[1]/div/div/div[3]/div/div[2]/div[3]/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[1]/div[3]/div[1]/div/div/div[3]/div/div[2]/div[3]/div/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[1]/div[3]/div[1]/div/div/div[3]/div/div[2]/div[3]/div/form/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[1]/div[3]/div[1]/div/div/div[3]/div/div[2]/div[3]/div/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[1]/div[3]/div[1]/div/div/div[3]/div/div[2]/div[3]/div/form/button"
+   },
+   "https://kmline.ru/": {
+      "click_0": "/html/body/div/div[1]/div[2]/header/div/div/div[2]/div[2]/a[2]",
+      "click_1": "/html/body/div[2]/div[2]/div[4]/div/div/div[2]/form/fieldset/div[2]/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div[2]/div[4]/div/div/div[2]/form/fieldset/div[2]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[2]/div[4]/div/div/div[2]/form/fieldset/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div[2]/div[4]/div/div/div[2]/form/fieldset/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div[2]/div[4]/div/div/div[2]/form/fieldset/div[2]/div[4]/button"
+   },
+   "https://yutkuhnimoscow.ru/": {
+      "click_0": "/html/body/div[2]/div[2]/div[3]/div[3]/div[1]/div[4]/form/div[1]/div[3]/input",
+      "input_1": [
+         "/html/body/div[2]/div[2]/div[3]/div[3]/div[1]/div[4]/form/div[1]/div[3]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div[2]/div[3]/div[3]/div[1]/div[4]/form/div[3]/div[3]/input",
+      "input_3": [
+         "/html/body/div[2]/div[2]/div[3]/div[3]/div[1]/div[4]/form/div[3]/div[3]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[2]/div[2]/div[3]/div[3]/div[1]/div[4]/form/div[4]/div/input"
+   },
+   "https://www.1001shkaf.ru/zakaz-obratnogo-zvonka": {
+      "click_0": "/html/body/div[6]/section/div[1]/div/div[2]/div/div[1]/div/div/article/div[1]/form/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[6]/section/div[1]/div/div[2]/div/div[1]/div/div/article/div[1]/form/div/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[6]/section/div[1]/div/div[2]/div/div[1]/div/div/article/div[1]/form/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[6]/section/div[1]/div/div[2]/div/div[1]/div/div/article/div[1]/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[6]/section/div[1]/div/div[2]/div/div[1]/div/div/article/div[1]/form/div/div[7]/input"
+   },
+   "https://fabrikapereezda.ru/services/": {
+      "click_0": "/html/body/footer/div/div/div[2]/div[1]/div[3]/div[3]/a",
+      "click_1": "/html/body/div[3]/div/div/div[1]/div/div[1]/form/div/div[1]/input",
+      "input_2": [
+         "/html/body/div[3]/div/div/div[1]/div/div[1]/form/div/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div/div[1]/div/div[1]/form/div/div[2]/input",
+      "input_4": [
+         "/html/body/div[3]/div/div/div[1]/div/div[1]/form/div/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div/div/div[1]/div/div[1]/form/div/div[5]/input"
+   },
+   "https://www.pereezd-pro.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div[3]/a",
+      "click_1": "/html/body/div[17]/div/div[9]/div/div/div/div/div/div/div/form/table/tbody/tr[1]/td/table/tbody/tr/td/input",
+      "input_2": [
+         "/html/body/div[17]/div/div[9]/div/div/div/div/div/div/div/form/table/tbody/tr[1]/td/table/tbody/tr/td/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[17]/div/div[9]/div/div/div/div/div/div/div/form/table/tbody/tr[2]/td/table/tbody/tr/td/input",
+      "input_4": [
+         "/html/body/div[17]/div/div[9]/div/div/div/div/div/div/div/form/table/tbody/tr[2]/td/table/tbody/tr/td/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[17]/div/div[9]/div/div/div/div/div/div/div/form/div[2]/label/input",
+      "click_6": "/html/body/div[17]/div/div[9]/div/div/div/div/div/div/div/form/input[2]"
+   },
+   "https://nvsl.ru/services/perevozka-mebeli/": {
+      "click_0": "/html/body/div[2]/main/div[4]/div/div/div/div[3]/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[2]/main/div[4]/div/div/div/div[3]/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/main/div[4]/div/div/div/div[3]/form/div[2]/input",
+      "input_3": [
+         "/html/body/div[2]/main/div[4]/div/div/div/div[3]/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[2]/main/div[4]/div/div/div/div[3]/form/div[3]/button"
+   },
+   "http://sborka33.ru/price/": {
+      "click_0": "/html/body/div/div/div[1]/div/div/form/fieldset/input[3]",
+      "input_1": [
+         "/html/body/div/div/div[1]/div/div/form/fieldset/input[3]",
+         "name"
+      ],
+      "click_2": "/html/body/div/div/div[1]/div/div/form/fieldset/input[4]",
+      "input_3": [
+         "/html/body/div/div/div[1]/div/div/form/fieldset/input[4]",
+         "phone"
+      ],
+      "click_4": "/html/body/div/div/div[1]/div/div/form/fieldset/div[1]/input"
+   },
+   "https://mebel-v-orle.ru": {
+      "click_0": "/html/body/section[6]/div/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/section[6]/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/section[6]/div/div/form/div[2]/input[2]",
+      "input_3": [
+         "/html/body/section[6]/div/div/form/div[2]/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/section[6]/div/div/form/div[4]/input[3]"
+   },
+   "https://dom-pomoshcnik.com/": {
+      "click_0": "/html/body/div[1]/div[2]/div/div[2]/a",
+      "click_1": "/html/body/div[3]/div/div/div/div[2]/form/span[1]/input",
+      "input_2": [
+         "/html/body/div[3]/div/div/div/div[2]/form/span[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div/div/div[2]/form/span[2]/input",
+      "input_4": [
+         "/html/body/div[3]/div/div/div/div[2]/form/span[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div/div/div/div[2]/form/input[1]"
+   },
+   "https://www.defo.ru/": {
+      "click_0": "/html/body/header/div/div/div[1]/div/div/div[2]/div/button[2]",
+      "click_1": "/html/body/div[5]/div[2]/form/div/p[2]/input",
+      "input_2": [
+         "/html/body/div[5]/div[2]/form/div/p[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[5]/div[2]/form/div/p[3]/input",
+      "input_4": [
+         "/html/body/div[5]/div[2]/form/div/p[3]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[5]/div[2]/form/div/div[3]/label",
+      "click_6": "/html/body/div[5]/div[2]/form/div/button"
+   },
+   "https://www.wifire.ru": {
+      "click_0": "/html/body/div[1]/nav/div/div[1]/div[2]/div/button",
+      "click_1": "/html/body/div[2]/div[1]/div[3]/div/div[1]/div[1]/div/div[2]/input[1]",
+      "input_2": [
+         "/html/body/div[2]/div[1]/div[3]/div/div[1]/div[1]/div/div[2]/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[1]/div[3]/div/div[1]/div[1]/div/div[2]/input[2]",
+      "input_4": [
+         "/html/body/div[2]/div[1]/div[3]/div/div[1]/div[1]/div/div[2]/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div[1]/div[3]/div/div[1]/div[1]/div/div[4]/a[1]"
+   },
+   "https://provayder.net/": {
+      "click_0": "/html/body/div[2]/div[1]/div[2]/div/div/div/div/div",
+      "click_1": "/html/body/div[2]/div[15]/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div[15]/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[15]/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div[15]/div/div/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div[15]/div/div/form/div[3]/button"
+   },
+   "https://www.telincom.ru": {
+      "click_0": "/html/body/div[2]/div/div[1]/div[2]/div[1]/div[1]/button[3]",
+      "click_1": "/html/body/div[1]/div/div/div[4]/div/div/div[2]/div[1]/input",
+      "input_2": [
+         "/html/body/div[1]/div/div/div[4]/div/div/div[2]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div/div/div[4]/div/div/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[1]/div/div/div[4]/div/div/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div/div/div[4]/div/div/div[2]/div[3]/button/span"
+   },
+   "https://top-net.ru/": {
+      "click_0": "/html/body/section[1]/div/div/div/div/form/label/input",
+      "input_1": [
+         "/html/body/section[1]/div/div/div/div/form/label/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/section[1]/div/div/div/div/form/button"
+   },
+   "https://mg-telecom.ru": {
+      "click_0": "/html/body/div[7]/div[1]/button",
+      "click_1": "/html/body/div[7]/div[1]/div[1]/div[1]/div[3]/span/input",
+      "input_2": [
+         "/html/body/div[7]/div[1]/div[1]/div[1]/div[3]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[7]/div[1]/div[1]/div[1]/div[3]/div"
+   },
+   "https://internet-tv-dom.ru": {
+      "click_0": "/html/body/header/div/div/div/div/div[4]/div/div[2]/a/div/p",
+      "click_1": "/html/body/section[16]/div/div/div/div/div/div/div[3]/form/div/div[2]/div/div[1]/input",
+      "click_2": "/html/body/section[16]/div/div/div/div/div/div/div[3]/form/div/div[3]/div/input",
+      "input_3": [
+         "/html/body/section[16]/div/div/div/div/div/div/div[3]/form/div/div[3]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/section[16]/div/div/div/div/div/div/div[3]/form/div/div[9]/button"
+   },
+   "https://vitamina.ru/": {
+      "click_0": "/html/body/div[2]/div/div/div[3]/form/div[2]/input",
+      "input_1": [
+         "/html/body/div[2]/div/div/div[3]/form/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div/div/div[3]/form/div[3]/input",
+      "input_3": [
+         "/html/body/div[2]/div/div/div[3]/form/div[3]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[2]/div/div/div[3]/form/div[4]/button"
+   },
+   "https://www.sportfood40.ru/": {
+      "click_0": "/html/body/footer/div[1]/div/div[1]/div[1]",
+      "click_1": "/html/body/div[7]/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[7]/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[7]/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[7]/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[7]/div/form/div[4]/button"
+   },
+   "https://frs-finance.ru/": {
+      "click_0": "/html/body/div[1]/header/div[3]/div[2]/div/div/button",
+      "click_1": "/html/body/div[2]/div[2]/div/div[2]/form/div[2]/span[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div[2]/div/div[2]/form/div[2]/span[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[2]/div/div[2]/form/div[2]/span[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div[2]/div/div[2]/form/div[2]/span[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div[2]/div/div[2]/form/div[2]/input"
+   },
+   "https://moskva.законное-банкротство.рф/": {
+      "click_0": "/html/body/div[1]/div[1]/div/div[3]/div/div[6]/div/div/form/div[2]/div[1]/div[2]/label[2]/input",
+      "click_1": "/html/body/div[1]/div[1]/div/div[3]/div/div[6]/div/div/form/div[2]/div[2]/div[2]/label[1]/input",
+      "click_2": "/html/body/div[1]/div[1]/div/div[3]/div/div[6]/div/div/form/div[2]/div[3]/div[2]/label[3]/input",
+      "click_3": "/html/body/div[1]/div[1]/div/div[3]/div/div[6]/div/div/form/div[2]/div[4]/div[2]/label[2]/input",
+      "click_4": "/html/body/div[1]/div[1]/div/div[3]/div/div[6]/div/div/form/div[2]/div[5]/div[2]/input",
+      "input_5": [
+         "/html/body/div[1]/div[1]/div/div[3]/div/div[6]/div/div/form/div[2]/div[5]/div[2]/input",
+         "phone"
+      ],
+      "click_6": "/html/body/div[1]/div[1]/div/div[3]/div/div[6]/div/div/form/div[3]/div/button"
+   },
+   "https://zalogkvartir.com/kredit-pod-zalog-kvartiry": {
+      "click_0": "/html/body/div[1]/div[4]/div[1]/div/section[5]/form/div[5]/div[2]/div[3]/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[4]/div[1]/div/section[5]/form/div[5]/div[2]/div[3]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[4]/div[1]/div/section[5]/form/div[5]/div[2]/div[3]/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[4]/div[1]/div/section[5]/form/div[5]/div[2]/div[3]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[4]/div[1]/div/section[5]/form/div[5]/div[3]/input[2]"
+   },
+   "https://crediconsalt.com/": {
+      "click_0": "/html/body/div[1]/div/div/div/main/article/div/div/section[1]/div[2]/div/div/div[7]/div/div/a/span/span",
+      "click_1": "/html/body/div[2]/div/div/div/form/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[2]/div/div/div/form/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div/div/form/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[2]/div/div/div/form/div[2]/div/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div/div/form/div[3]/button"
+   },
+   "https://credit24.ru/pomosch-v-kredite/": {
+      "click_0": "/html/body/div[3]/div/div/main/article/div/section[1]/div/div/div/div/div/div[3]/div/div/div/form/div[2]/span/input",
+      "input_1": [
+         "/html/body/div[3]/div/div/main/article/div/section[1]/div/div/div/div/div/div[3]/div/div/div/form/div[2]/span/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[3]/div/div/main/article/div/section[1]/div/div/div/div/div/div[3]/div/div/div/form/div[3]/span/input",
+      "input_3": [
+         "/html/body/div[3]/div/div/main/article/div/section[1]/div/div/div/div/div/div[3]/div/div/div/form/div[3]/span/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[3]/div/div/main/article/div/section[1]/div/div/div/div/div/div[3]/div/div/div/form/div[4]/input"
+   },
+   "https://bank-on.ru/": {
+      "click_0": "/html/body/footer/div/div[1]/div[3]/ul/li[3]/a",
+      "click_1": "/html/body/div[9]/div[2]/div[4]/div/div/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[9]/div[2]/div[4]/div/div/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[9]/div[2]/div[4]/div/div/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[9]/div[2]/div[4]/div/div/div/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[9]/div[2]/div[4]/div/div/div/div/form/div[5]/input[2]"
+   },
+   "https://www.taxi918.ru/": {
+      "click_0": "/html/body/div[2]/div/section[2]/div/div/div/div/div/div/div[1]/div/div/div[1]/div[1]/div[1]/div/input",
+      "input_1": [
+         "/html/body/div[2]/div/section[2]/div/div/div/div/div/div/div[1]/div/div/div[1]/div[1]/div[1]/div/input",
+         "phone"
+      ],
+      "click_2": "/html/body/div[2]/div/section[2]/div/div/div/div/div/div/div[1]/div/div/div[1]/div[1]/div[2]/div"
+   },
+   "https://cityarbitrbfl.ru/": {
+      "click_0": "/html/body/form/section[2]/div/div[2]/div/div/input[1]",
+      "input_1": [
+         "/html/body/form/section[2]/div/div[2]/div/div/input[1]",
+         "name"
+      ],
+      "click_2": "/html/body/form/section[2]/div/div[2]/div/div/input[2]",
+      "input_3": [
+         "/html/body/form/section[2]/div/div[2]/div/div/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/form/section[2]/div/div[2]/div/div/input[3]",
+      "input_5": [
+         "/html/body/form/section[2]/div/div[2]/div/div/input[3]",
+         "town"
+      ],
+      "click_6": "/html/body/form/section[2]/div/div[2]/div/div/button"
+   },
+   "https://msk.vitakon.ru/bankrotstvo/": {
+      "click_0": "/html/body/div[9]/section[8]/div/div/form/div[1]/div[1]/input",
+      "input_1": [
+         "/html/body/div[9]/section[8]/div/div/form/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[9]/section[8]/div/div/form/div[1]/div[2]/input",
+      "input_3": [
+         "/html/body/div[9]/section[8]/div/div/form/div[1]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[9]/section[8]/div/div/form/div[2]/div[1]/a"
+   },
+   "https://msk.bankrotconsult.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/form/div[3]/span/input",
+      "input_1": [
+         "/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/form/div[3]/span/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/form/div[4]/span/input",
+      "input_3": [
+         "/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/form/div[4]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/form/div[5]/input"
+   },
+   "https://youbankrot.ru/": {
+      "click_0": "/html/body/header/div/div/div[2]/div[5]/button",
+      "click_1": "/html/body/div[10]/div[10]/div/div/div/div/div[2]/form/div/div[1]/input",
+      "input_2": [
+         "/html/body/div[10]/div[10]/div/div/div/div/div[2]/form/div/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[10]/div[10]/div/div/div/div/div[2]/form/div/div[2]/input",
+      "input_4": [
+         "/html/body/div[10]/div[10]/div/div/div/div/div[2]/form/div/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[10]/div[10]/div/div/div/div/div[2]/form/div/div[4]/button"
+   },
+   "https://au-bankrot.ru/msk/": {
+      "click_0": "/html/body/header/div[1]/div/div/div/div[2]/a",
+      "click_1": "/html/body/div[2]/div/div[1]/form/input[1]",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/form/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/form/input[2]",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/form/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/form/button[1]"
+   },
+   "https://www.dvitex.ru/orders/bankrotstvo_fizicheskogo_litsa/": {
+      "click_0": "/html/body/header/div/div[2]/div/a[2]",
+      "click_1": "/html/body/div[10]/div/div/div/div[2]/form/div[1]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[10]/div/div/div/div[2]/form/div[1]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[10]/div/div/div/div[2]/form/div[1]/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[10]/div/div/div/div[2]/form/div[1]/div[2]/div/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[10]/div/div/div/div[2]/form/div[2]/div[2]/input"
+   },
+   "https://bankrotor.ru/moskva/": {
+      "click_0": "/html/body/div[1]/div[1]/header/div/div/div[2]/div/div[3]/span",
+      "click_1": "/html/body/div[4]/div[2]/div[4]/div/div/div/form/div[2]/input",
+      "input_2": [
+         "/html/body/div[4]/div[2]/div[4]/div/div/div/form/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[4]/div[2]/div[4]/div/div/div/form/div[3]/input",
+      "input_4": [
+         "/html/body/div[4]/div[2]/div[4]/div/div/div/form/div[3]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[4]/div[2]/div[4]/div/div/div/form/div[4]/button/span"
+   },
+   "https://pragmart.ru/": {
+      "click_0": "/html/body/header/div[2]/div/div/div[2]/div[1]/div",
+      "click_1": "/html/body/div[10]/div[2]/div[4]/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[10]/div[2]/div[4]/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[10]/div[2]/div[4]/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[10]/div[2]/div[4]/div/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[10]/div[2]/div[4]/div/div/form/div[4]/button"
+   },
+   "https://glavbankrot.ru/moskva/": {
+      "click_0": "/html/body/header/div/nav/div/div[2]/p[3]/a",
+      "click_1": "/html/body/div[3]/div/div/form/label[1]/input",
+      "input_2": [
+         "/html/body/div[3]/div/div/form/label[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div/form/label[2]/input",
+      "input_4": [
+         "/html/body/div[3]/div/div/form/label[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div/div/form/button"
+   },
+   "https://reshenie-uk.ru/bankrotstvo/": {
+      "click_0": "/html/body/div[4]/div/div[1]/div[1]/form/div[3]/input",
+      "input_1": [
+         "/html/body/div[4]/div/div[1]/div[1]/form/div[3]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[4]/div/div[1]/div[1]/form/div[4]/input",
+      "input_3": [
+         "/html/body/div[4]/div/div[1]/div[1]/form/div[4]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[4]/div/div[1]/div[1]/form/button"
+   },
+   "https://jabankrot.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div[3]/div/div[4]/div/div/div/div/a/table/tbody/tr/td",
+      "click_1": "/html/body/div[1]/div[4]/div/div/div[2]/div/form/div[2]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div[4]/div/div/div[2]/div/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[4]/div/div/div[2]/div/form/div[2]/div[2]/div/div[1]/input[1]",
+      "input_4": [
+         "/html/body/div[1]/div[4]/div/div/div[2]/div/form/div[2]/div[2]/div/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div[4]/div/div/div[2]/div/form/div[2]/div[5]/button"
+   },
+   "https://baborinstitut.ru/": {
+      "click_0": "/html/body/header/div[1]/div[1]/button[2]",
+      "click_1": "/html/body/div[1]/div/form/div[2]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div/form/div[2]/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[1]/div/form/div[2]/div[2]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div/form/div[2]/div[4]/label/input",
+      "click_6": "/html/body/div[1]/div/form/div[3]/button/span"
+   },
+   "https://centre.trilogy.pro/": {
+      "click_0": "/html/body/div[1]/div[1]/div/div[2]/div/div[3]/div/div[2]/button/div/span",
+      "click_1": "/html/body/div[2]/div[2]/div/div[2]/div/div/div[2]/form/div[2]/div[1]/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div[2]/div/div[2]/div/div/div[2]/form/div[2]/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[2]/div/div[2]/div/div/div[2]/form/div[2]/div[2]/div[1]/input",
+      "input_4": [
+         "/html/body/div[2]/div[2]/div/div[2]/div/div/div[2]/form/div[2]/div[2]/div[1]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div[2]/div/div[2]/div/div/div[2]/form/div[3]/button/div"
+   },
+   "https://www.sochi-magadan.ru/about/obratnyij-zvonok": {
+      "click_0": "/html/body/div[4]/section/div/div/div[1]/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[4]/section/div/div/div[1]/div/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[4]/section/div/div/div[1]/div/form/div[2]/input",
+      "input_3": [
+         "/html/body/div[4]/section/div/div/div[1]/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[4]/section/div/div/div[1]/div/form/input[1]",
+      "click_5": "/html/body/div[4]/section/div/div/div[1]/div/form/input[2]"
+   },
+   "https://magadan.fornaks.ru/about/contacts/": {
+      "click_0": "/html/body/div[4]/div[5]/div[3]/div[1]/div[1]/div[1]/div[1]/div/a",
+      "click_1": "/html/body/div[2]/div/div[1]/div/div/div/div[4]/form/div[2]/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/div/div/div/div[4]/form/div[2]/div[1]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/div/div/div/div[4]/form/div[2]/div[3]/label/div",
+      "click_4": "/html/body/div[2]/div/div[1]/div/div/div/div[4]/form/div[2]/div[2]/span"
+   },
+   "https://provayder.net/magadan/": {
+      "click_0": "/html/body/div[2]/div[1]/div[2]/div/div/div/div/div",
+      "click_1": "/html/body/div[2]/div[15]/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div[15]/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[15]/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div[15]/div/div/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div[15]/div/div/form/div[3]/button"
+   },
+   "https://mebel-v-magadane.ru/contacts": {
+      "click_0": "/html/body/header/div[2]/div/div[2]/button",
+      "click_1": "/html/body/div[4]/div/div/div/div/div/form/div[2]/input",
+      "input_2": [
+         "/html/body/div[4]/div/div/div/div/div/form/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[4]/div/div/div/div/div/form/div[3]/input",
+      "input_4": [
+         "/html/body/div[4]/div/div/div/div/div/form/div[3]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[4]/div/div/div/div/div/form/div[6]/button"
+   },
+   "https://магадан-агат.рф/contacts": {
+      "click_0": "/html/body/div[1]/div/div[4]/ul[2]/li[2]/button",
+      "click_1": "/html/body/div[2]/div[3]/div/div/form/div[2]/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div[3]/div/div/form/div[2]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[3]/div/div/form/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div[3]/div/div/form/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div[3]/div/div/form/div[2]/button"
+   },
+   "https://magadan.spectehnic.ru/contact-us/": {
+      "click_0": "/html/body/div[3]/header/div[1]/div/div[2]/a",
+      "click_1": "/html/body/div[1]/div[2]/div[1]/div/div/div/form/input[1]",
+      "input_2": [
+         "/html/body/div[1]/div[2]/div[1]/div/div/div/form/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[2]/div[1]/div/div/div/form/input[2]",
+      "input_4": [
+         "/html/body/div[1]/div[2]/div[1]/div/div/div/form/input[2]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div[2]/div[1]/div/div/div/form/button"
+   },
+   "https://magadan.livoice.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div/a",
+      "click_1": "/html/body/div[1]/div[3]/form/input[4]",
+      "input_2": [
+         "/html/body/div[1]/div[3]/form/input[4]",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[3]/form/input[5]",
+      "input_4": [
+         "/html/body/div[1]/div[3]/form/input[5]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div[3]/form/input[8]"
+   },
+   "https://www.ucontrol.ru/wheretobuy/in_magadan/": {
+      "click_0": "/html/body/div[1]/div/div[1]/div[3]/div/div[4]/a",
+      "click_1": "/html/body/div[3]/div[1]/div[2]/div[2]/div[1]/div/div[2]/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[3]/div[1]/div[2]/div[2]/div[1]/div/div[2]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div[1]/div[2]/div[2]/div[1]/div/div[2]/form/div[3]/input",
+      "input_4": [
+         "/html/body/div[3]/div[1]/div[2]/div[2]/div[1]/div/div[2]/form/div[3]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[3]/div[1]/div[2]/div[2]/div[1]/div/div[2]/form/div[5]/input"
+   },
+   "https://megagroup.ru/callback-form-page": {
+      "click_0": "/html/body/div/div/div[2]/form/div[1]/div[2]/input",
+      "input_1": [
+         "/html/body/div/div/div[2]/form/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div/div/div[2]/form/div[2]/div[2]/input",
+      "input_3": [
+         "/html/body/div/div/div[2]/form/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div/div/div[2]/form/div[3]/div[2]/div[2]/input",
+      "click_5": "/html/body/div/div/div[2]/form/div[4]/button"
+   },
+   "https://magadan.master-servies.ru/uslugi-santehnika/": {
+      "click_0": "/html/body/div[1]/div/div/div/div/section/div[2]/article/div/div[1]/div[1]/div/div/div/div/div/div/div[1]/div/div/div/div[2]/div/div/div/div/div[3]/div/a/span/span",
+      "click_1": "/html/body/div[1]/div/div/div/div/section/div[2]/article/div/div[1]/div[13]/div/div/div/div/div/div/a/div/form/div[2]/div[1]/div/span/input",
+      "input_2": [
+         "/html/body/div[1]/div/div/div/div/section/div[2]/article/div/div[1]/div[13]/div/div/div/div/div/div/a/div/form/div[2]/div[1]/div/span/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[1]/div/div/div/div/section/div[2]/article/div/div[1]/div[13]/div/div/div/div/div/div/a/div/form/div[2]/div[2]/div/p/input"
+   },
+   "https://vetaklinik.ru/": {
+      "click_0": "/html/body/section[3]/div/div/div[2]/div/div/form/p/span[1]/input",
+      "input_1": [
+         "/html/body/section[3]/div/div/div[2]/div/div/form/p/span[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/section[3]/div/div/div[2]/div/div/form/p/span[2]/input",
+      "input_3": [
+         "/html/body/section[3]/div/div/div[2]/div/div/form/p/span[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/section[3]/div/div/div[2]/div/div/form/p/input"
+   },
+   "https://catvetdog.ru/": {
+      "click_0": "/html/body/footer/section/div/div[2]/div[1]/form/fieldset/div[1]/div[1]/input",
+      "input_1": [
+         "/html/body/footer/section/div/div[2]/div[1]/form/fieldset/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/footer/section/div/div[2]/div[1]/form/fieldset/div[1]/div[2]/input",
+      "input_3": [
+         "/html/body/footer/section/div/div[2]/div[1]/form/fieldset/div[1]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/footer/section/div/div[2]/div[1]/form/fieldset/div[1]/div[3]/input",
+      "input_5": [
+         "/html/body/footer/section/div/div[2]/div[1]/form/fieldset/div[1]/div[3]/input",
+         "Кот"
+      ],
+      "click_6": "/html/body/footer/section/div/div[2]/div[1]/form/fieldset/div[2]/button"
+   },
+   "https://bio.vet/zapis-na-priem": {
+      "click_0": "/html/body/div[1]/div[4]/div/div/main/article/div[2]/div/form/div[1]/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[4]/div/div/main/article/div[2]/div/form/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[4]/div/div/main/article/div[2]/div/form/div[1]/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[4]/div/div/main/article/div[2]/div/form/div[1]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[4]/div/div/main/article/div[2]/div/form/div[3]/button"
+   },
+   "https://www.belanta.vet/uslugi/kastratciya/": {
+      "click_0": "/html/body/div[1]/header/div[2]/div/div[2]/div[2]/div/div[2]/a[2]",
+      "click_1": "/html/body/div[8]/div[2]/form/div[1]/div[2]/div[1]/input",
+      "input_2": [
+         "/html/body/div[8]/div[2]/form/div[1]/div[2]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[8]/div[2]/form/div[1]/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[8]/div[2]/form/div[1]/div[2]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[8]/div[2]/form/div[1]/div[4]/input[2]"
+   },
+   "https://vetson.ru/": {
+      "click_0": "/html/body/div[2]/header/div[1]/div[1]/div/div[4]/div/div[2]/span",
+      "click_1": "/html/body/div[12]/div/div/form/div[2]/div[1]/div/div/div/input",
+      "input_2": [
+         "/html/body/div[12]/div/div/form/div[2]/div[1]/div/div/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[12]/div/div/form/div[2]/div[2]/div/div/div/input",
+      "input_4": [
+         "/html/body/div[12]/div/div/form/div[2]/div[2]/div/div/div/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[12]/div/div/form/div[3]/div[2]/button"
+   },
+   "https://vetclinika.moscow/": {
+      "click_0": "/html/body/footer/div[7]/div/div/div[2]/div/div/div/a[1]",
+      "click_1": "/html/body/footer/div[4]/div[2]/div[3]/div/form/p[2]/span/input",
+      "input_2": [
+         "/html/body/footer/div[4]/div[2]/div[3]/div/form/p[2]/span/input",
+         "name"
+      ],
+      "click_3": "/html/body/footer/div[4]/div[2]/div[3]/div/form/p[3]/span/input",
+      "input_4": [
+         "/html/body/footer/div[4]/div[2]/div[3]/div/form/p[3]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/footer/div[4]/div[2]/div[3]/div/form/p[5]/button"
+   },
+   "https://med-vet.ru/": {
+      "click_0": "/html/body/div[3]/div/div/div/div[2]/div/span",
+      "click_1": "/html/body/div[3]/div/div/div/div[2]/div/div[3]/div[4]/div/div[2]/input",
+      "input_2": [
+         "/html/body/div[3]/div/div/div/div[2]/div/div[3]/div[4]/div/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[3]/div/div/div/div[2]/div/div[3]/div[5]"
+   },
+   "https://vetpomoch.ru/": {
+      "click_0": "/html/body/div[1]/header/div/div/div[3]/div[1]/a",
+      "click_1": "/html/body/div[6]/div[2]/div[4]/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[6]/div[2]/div[4]/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[6]/div[2]/div[4]/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[6]/div[2]/div[4]/div/div/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[6]/div[2]/div[4]/div/div/form/div[4]/label",
+      "click_6": "/html/body/div[6]/div[2]/div[4]/div/div/form/div[3]/button"
+   },
+   "https://vet911.ru/": {
+      "click_0": "/html/body/div[1]/header/div/div/div[3]/div/a[2]",
+      "click_1": "/html/body/div[1]/section/div[4]/div[2]/div/form/input[1]",
+      "input_2": [
+         "/html/body/div[1]/section/div[4]/div[2]/div/form/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/section/div[4]/div[2]/div/form/input[2]",
+      "input_4": [
+         "/html/body/div[1]/section/div[4]/div[2]/div/form/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/section/div[4]/div[2]/div/form/div[1]/button"
+   },
+   "https://solomonvet.ru/kastratsiya-kota": {
+      "click_0": "/html/body/div[1]/div/div/div[2]/div[2]/center/div/div/div/div[1]/div/div/div[2]/a",
+      "click_1": "/html/body/div[3]/input[1]",
+      "input_2": [
+         "/html/body/div[3]/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/input[2]",
+      "input_4": [
+         "/html/body/div[3]/input[2]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[3]/div[3]/input"
+   },
+   "https://veterinar-na-domu.ru/sterilizaciya-koshek/": {
+      "click_0": "/html/body/main/section[2]/div/div/div/div/div[1]/div/a",
+      "click_1": "/html/body/div[2]/div[2]/div[4]/div/div/div/form/p/span[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div[2]/div[4]/div/div/div/form/p/span[1]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[2]/div[2]/div[4]/div/div/div/form/p/input"
+   },
+   "https://glamsalon.ru/": {
+      "click_0": "/html/body/div[1]/div[39]/div/div[3]/div/div/div/div/div/div[2]/form/div[2]/div[1]/div[2]/input",
+      "input_1": [
+         "/html/body/div[1]/div[39]/div/div[3]/div/div/div/div/div/div[2]/form/div[2]/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[39]/div/div[3]/div/div/div/div/div/div[2]/form/div[2]/div[2]/div[2]/div[1]/input[1]",
+      "input_3": [
+         "/html/body/div[1]/div[39]/div/div[3]/div/div/div/div/div/div[2]/form/div[2]/div[2]/div[2]/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[39]/div/div[3]/div/div/div/div/div/div[2]/form/div[2]/div[4]/button"
+   },
+   "https://www.vetotvet.com/klinika/kastratsiya-sterilizatsiya/": {
+      "click_0": "/html/body/div[3]/div[2]/div/div/div/div[2]/div[2]/a/span",
+      "click_1": "/html/body/div[6]/div/div/div/div/form/div[1]/div/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[6]/div/div/div/div/form/div[1]/div/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[6]/div/div/div/div/form/div[1]/div/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[6]/div/div/div/div/form/div[1]/div/div[2]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[6]/div/div/div/div/form/div[2]/div/div[1]/div/button"
+   },
+   "https://pult-ohrani.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div[1]/div[1]/div/div[3]/a",
+      "click_1": "/html/body/div[2]/div/div[1]/form/label[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/form/label[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/form/label[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/form/label[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/form/div[3]/button"
+   },
+   "\nhttps://www.zdorovo365.ru/zakazat-obratniy-zvonok.html": {
+      "click_0": "/html/body/div[3]/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[3]/div/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[3]/div/form/div[2]/input",
+      "input_3": [
+         "/html/body/div[3]/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[3]/div/form/div[3]/button"
+   },
+   "https://gynclinic.ru/order-call/": {
+      "click_0": "/html/body/div[1]/div/div[4]/div[2]/div/div[2]/form/div[1]/div/input",
+      "input_1": [
+         "/html/body/div[1]/div/div[4]/div[2]/div/div[2]/form/div[1]/div/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div/div[4]/div[2]/div/div[2]/form/div[2]/div/input",
+      "input_3": [
+         "/html/body/div[1]/div/div[4]/div[2]/div/div[2]/form/div[2]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div/div[4]/div[2]/div/div[2]/form/div[3]/button"
+   },
+   "https://www.callcenter24.ru/": {
+      "click_0": "/html/body/div[6]/div/div[3]/div[2]/form/div[1]/div[2]/input",
+      "input_1": [
+         "/html/body/div[6]/div/div[3]/div[2]/form/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[6]/div/div[3]/div[2]/form/div[2]/div[2]/input",
+      "input_3": [
+         "/html/body/div[6]/div/div[3]/div[2]/form/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[6]/div/div[3]/div[2]/form/div[5]/div[2]/button"
+   },
+   "https://cons66.ru/zakazat-obratnyy-zvonok-kruglosutochno/": {
+      "click_0": "/html/body/div[1]/div[2]/div[1]/div[1]/div/div[3]/div/div[1]/div/div[1]/form/div[2]/div[1]/div/div[2]/input",
+      "input_1": [
+         "/html/body/div[1]/div[2]/div[1]/div[1]/div/div[3]/div/div[1]/div/div[1]/form/div[2]/div[1]/div/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[2]/div[1]/div[1]/div/div[3]/div/div[1]/div/div[1]/form/div[2]/div[2]/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[2]/div[1]/div[1]/div/div[3]/div/div[1]/div/div[1]/form/div[2]/div[2]/div/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[2]/div[1]/div[1]/div/div[3]/div/div[1]/div/div[1]/form/div[4]/input"
+   },
+   "https://kvadro-sk.ru/": {
+      "click_0": "/html/body/div[1]/div[17]/div/div[3]/div/div/div/div/div[3]/form/div[2]/div[1]/div/input",
+      "input_1": [
+         "/html/body/div[1]/div[17]/div/div[3]/div/div/div/div/div[3]/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[17]/div/div[3]/div/div/div/div/div[3]/form/div[2]/div[2]/div/div[1]/input[1]",
+      "input_3": [
+         "/html/body/div[1]/div[17]/div/div[3]/div/div/div/div/div[3]/form/div[2]/div[2]/div/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[17]/div/div[3]/div/div/div/div/div[3]/form/div[2]/div[5]/button/div"
+   },
+   "https://ekb.pdrc.ru/callback/": {
+      "click_0": "/html/body/div[1]/main/div[2]/form/div/div/div[1]/div[2]/input",
+      "input_1": [
+         "/html/body/div[1]/main/div[2]/form/div/div/div[1]/div[2]/input",
+         "phone"
+      ],
+      "click_2": "/html/body/div[1]/main/div[2]/form/div/div/div[2]/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/main/div[2]/form/div/div/div[2]/div[2]/input",
+         "name"
+      ],
+      "click_4": "/html/body/div[1]/main/div[2]/form/div/div/div[3]/div[2]/input",
+      "input_5": [
+         "/html/body/div[1]/main/div[2]/form/div/div/div[3]/div[2]/input",
+         "Екатеринбург"
+      ],
+      "click_6": "/html/body/div[1]/main/div[2]/form/div/input"
+   },
+   "https://www.kamtv.ru/dop-uslugi/": {
+      "click_0": "/html/body/div[2]/div[1]/header/div/div[4]/a[4]",
+      "click_1": "/html/body/div[2]/div[4]/div/div/div/form/input[2]",
+      "input_2": [
+         "/html/body/div[2]/div[4]/div/div/div/form/input[2]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[4]/div/div/div/form/input[3]",
+      "input_4": [
+         "/html/body/div[2]/div[4]/div/div/div/form/input[3]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div[4]/div/div/div/form/div[2]/button"
+   },
+   "https://repiter41.ru/": {
+      "click_0": "/html/body/div[1]/div[2]/div/div/div[8]/a/u",
+      "click_1": "/html/body/div[1]/div[19]/div/div/div[2]/div/form/div[2]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div[19]/div/div/div[2]/div/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[19]/div/div/div[2]/div/form/div[2]/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[1]/div[19]/div/div/div[2]/div/form/div[2]/div[2]/div/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div[19]/div/div/div[2]/div/form/div[2]/div[5]/button"
+   },
+   "https://radiogenerator.ru/petropavlovskkamchatskiy/": {
+      "click_0": "/html/body/div[2]/div[2]/header/div/div/div[2]/div/div[3]/a",
+      "click_1": "/html/body/div[3]/div[2]/div/div/div/div[2]/form/div[3]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[3]/div[2]/div/div/div/div[2]/form/div[3]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div[2]/div/div/div/div[2]/form/div[3]/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[3]/div[2]/div/div/div/div[2]/form/div[3]/div[2]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div[2]/div/div/div/div[2]/form/div[3]/div[3]/button"
+   },
+   "https://petropavlovsk.da-uborka.ru/": {
+      "click_0": "/html/body/header/div[1]/div/div[3]/button",
+      "click_1": "/html/body/div/div/div[1]/form/fieldset/dl/dd[1]/input",
+      "input_2": [
+         "/html/body/div/div/div[1]/form/fieldset/dl/dd[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div/div/div[1]/form/fieldset/dl/dd[2]/input",
+      "input_4": [
+         "/html/body/div/div/div[1]/form/fieldset/dl/dd[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div/div/div[1]/form/fieldset/button"
+   },
+   "https://petropavlovsk-kamchatskiy.justconnect.ru/rejting-provajderov/": {
+      "click_0": "/html/body/div[3]/div[1]/div/div[2]/a[2]",
+      "click_1": "/html/body/div[13]/table/tbody/tr/td/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[13]/table/tbody/tr/td/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[13]/table/tbody/tr/td/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[13]/table/tbody/tr/td/div/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[13]/table/tbody/tr/td/div/form/div[4]/button"
+   },
+   "https://mebel-petropavlovsk-kamchatskij.ru/about": {
+      "click_0": "/html/body/header/div[2]/div/div[2]/button",
+      "click_1": "/html/body/div[5]/div/div/div/div/div/form/div[2]/input",
+      "input_2": [
+         "/html/body/div[5]/div/div/div/div/div/form/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[5]/div/div/div/div/div/form/div[3]/input",
+      "input_4": [
+         "/html/body/div[5]/div/div/div/div/div/form/div[3]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[5]/div/div/div/div/div/form/div[6]/button"
+   },
+   "https://kasco.su/contacts/": {
+      "click_0": "/html/body/nav/div[2]/ul[1]/div/a",
+      "click_1": "/html/body/div[2]/div/div[1]/form/div/input[1]",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/form/div/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/form/div/input[2]",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/form/div/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/form/div/button"
+   },
+   "https://petropavlovsk-kamchatskiy.evakuatorok.ru/": {
+      "click_0": "/html/body/div[2]/div/div/button",
+      "click_1": "/html/body/noindex[2]/div/div[1]/div/input[1]",
+      "input_2": [
+         "/html/body/noindex[2]/div/div[1]/div/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/noindex[2]/div/div[1]/div/input[2]",
+      "input_4": [
+         "/html/body/noindex[2]/div/div[1]/div/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/noindex[2]/div/div[1]/div/button"
+   },
+   "https://ru-dostavka.ru/petropavlovsk-kamchatskiy/": {
+      "click_0": "/html/body/div[1]/div[2]/header/div/div/div[2]/div[2]/div[1]/div[1]/a",
+      "click_1": "/html/body/div[1]/div[2]/header/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/form/div[1]/div/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div[2]/header/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/form/div[1]/div/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[2]/header/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/form/div[1]/div/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[1]/div[2]/header/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/form/div[1]/div/div[2]/div/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div[2]/header/div/div/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/form/div[2]/div/div/button"
+   },
+   "https://www.transcomavia.ru/content/goroda/?CITY_ID=362": {
+      "click_0": "/html/body/div[2]/footer/div/div/div[3]/div[2]/ul/li[6]/a",
+      "click_1": "/html/body/div[3]/div/div/div/div/div/form/div/div[2]/div/input[1]",
+      "input_2": [
+         "/html/body/div[3]/div/div/div/div/div/form/div/div[2]/div/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div/div/div/div/form/div/div[2]/div/input[2]",
+      "input_4": [
+         "/html/body/div[3]/div/div/div/div/div/form/div/div[2]/div/input[2]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[3]/div/div/div/div/div/form/div/div[2]/input"
+   },
+   "https://pk.rufire.ru/pages/contacts/": {
+      "click_0": "/html/body/div[1]/header/div/div/div[2]/div[5]/div/div[2]/div[2]/a",
+      "click_1": "/html/body/div[2]/div/div/div/div[3]/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div/div/div[3]/div[1]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[2]/div/div/div/div[3]/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div/div/div[3]/div[2]/input",
+         "name"
+      ],
+      "click_5": "/html/body/div[2]/div/div/div/div[3]/div[3]/button"
+   },
+   "https://prioritet41.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div/section[2]/div/div/div[3]/div/div/div/div/div/a/span/span",
+      "click_1": "/html/body/div[3]/div/div[2]/div/div/section/div/div/div/div/div/div[2]/div/form/div/div[1]/input",
+      "input_2": [
+         "/html/body/div[3]/div/div[2]/div/div/section/div/div/div/div/div/div[2]/div/form/div/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div[2]/div/div/section/div/div/div/div/div/div[2]/div/form/div/div[2]/input",
+      "input_4": [
+         "/html/body/div[3]/div/div[2]/div/div/section/div/div/div/div/div/div[2]/div/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[3]/div/div[2]/div/div/section/div/div/div/div/div/div[2]/div/form/div/div[3]/div/span/input",
+      "click_6": "/html/body/div[3]/div/div[2]/div/div/section/div/div/div/div/div/div[2]/div/form/div/div[5]/button/span/span[2]"
+   },
+   "https://petropavlovsk-kamchatskiy.sekret-trezvosti.ru/": {
+      "click_0": "/html/body/header/div/div/div/a[4]/span[2]",
+      "click_1": "/html/body/div[2]/div/div/form/div[3]/label/input",
+      "input_2": [
+         "/html/body/div[2]/div/div/form/div[3]/label/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[2]/div/div/form/div[3]/button/span[2]"
+   },
+   "https://petropavlovsk-kamchatskiy.allevacuators.ru/": {
+      "click_0": "/html/body/header/div/div/div[2]/button",
+      "click_1": "/html/body/section[5]/div/div/div/div/form/div/div[1]/div/input",
+      "input_2": [
+         "/html/body/section[5]/div/div/div/div/form/div/div[1]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/section[5]/div/div/div/div/form/div/div[2]/button"
+   },
+   "https://www.apteka-byrdenko.ru/": {
+      "click_0": "/html/body/div[2]/main/div[3]/div/div/div/div/div/form/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[2]/main/div[3]/div/div/div/div/div/form/div/div[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[2]/main/div[3]/div/div/div/div/div/form/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[2]/main/div[3]/div/div/div/div/div/form/div/div[2]/input",
+         "name"
+      ],
+      "click_4": "/html/body/div[2]/main/div[3]/div/div/div/div/div/form/button"
+   },
+   "https://doctor-puh.ru/": {
+      "click_0": "/html/body/div/div[1]/div[4]/div[2]/div/div[4]/div/div/div/div/a/table/tbody/tr/td",
+      "click_1": "/html/body/div/div[1]/div[6]/div/div/div[1]/div/form/div[2]/div[1]/div/div[1]/input[1]",
+      "input_2": [
+         "/html/body/div/div[1]/div[6]/div/div/div[1]/div/form/div[2]/div[1]/div/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div/div[1]/div[6]/div/div/div[1]/div/form/div[2]/div[5]/button"
+   },
+   "https://triovetclinic.ru/": {
+      "click_0": "/html/body/div[2]/div/div[3]/section/div[1]/section[4]/section/div/div/div/div/div/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[2]/div/div[3]/section/div[1]/section[4]/section/div/div/div/div/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div/div[3]/section/div[1]/section[4]/section/div/div/div/div/div/div/form/div[2]/input",
+      "input_3": [
+         "/html/body/div[2]/div/div[3]/section/div[1]/section[4]/section/div/div/div/div/div/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[2]/div/div[3]/section/div[1]/section[4]/section/div/div/div/div/div/div/form/div[5]/div/input",
+      "click_5": "/html/body/div[2]/div/div[3]/section/div[1]/section[4]/section/div/div/div/div/a/button"
+   },
+   "https://magizoo.ru/stati/koshki/kastratsiya-kota-i-sterilizatsiya-koshki/": {
+      "click_0": "/html/body/div[1]/header/div[2]/div[2]/div/div/div[3]/div[1]/a",
+      "click_1": "/html/body/div[2]/div/div[1]/form/div/div[2]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/form/div/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/form/div/div[3]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/form/div/div[3]/input",
+         "name"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/form/div/div[4]/input"
+   },
+   "https://dr-hug.vet/zapis-k-veterinarnomu-vrachu/": {
+      "click_0": "/html/body/div[9]/div[1]/div/div/div/div[2]/form/div[2]/p[1]/span/input",
+      "input_1": [
+         "/html/body/div[9]/div[1]/div/div/div/div[2]/form/div[2]/p[1]/span/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[9]/div[1]/div/div/div/div[2]/form/div[2]/p[2]/span/input",
+      "input_3": [
+         "/html/body/div[9]/div[1]/div/div/div/div[2]/form/div[2]/p[2]/span/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[9]/div[1]/div/div/div/div[2]/form/div[2]/p[5]/input"
+   },
+   "https://vetastin.ru/": {
+      "click_0": "/html/body/div[1]/div[3]/div[1]/button",
+      "click_1": "/html/body/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span/input",
+      "input_2": [
+         "/html/body/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div"
+   },
+   "https://zoo-vethelp.ru/": {
+      "click_0": "/html/body/div[1]/div/header/div/div/div/section/div[2]/div[4]/div/div/div/div[2]/a/span",
+      "click_1": "/html/body/div[10]/div/div[2]/div/section/div[2]/div/div/div[3]/div/div/div/form/p[1]/label/span/input",
+      "input_2": [
+         "/html/body/div[10]/div/div[2]/div/section/div[2]/div/div/div[3]/div/div/div/form/p[1]/label/span/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[10]/div/div[2]/div/section/div[2]/div/div/div[3]/div/div/div/form/p[2]/label[1]/span/input",
+      "input_4": [
+         "/html/body/div[10]/div/div[2]/div/section/div[2]/div/div/div[3]/div/div/div/form/p[2]/label[1]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[10]/div/div[2]/div/section/div[2]/div/div/div[3]/div/div/div/form/p[3]/input"
+   },
+   "https://junglevet.ru/uslugi/hirurgiya/kastratsiya-kotov/": {
+      "click_0": "/html/body/div[2]/main/div/div[3]/div[1]/div[1]/form/div[2]/div[1]/div[2]/input[1]",
+      "input_1": [
+         "/html/body/div[2]/main/div/div[3]/div[1]/div[1]/form/div[2]/div[1]/div[2]/input[1]",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/main/div/div[3]/div[1]/div[1]/form/div[2]/div[1]/div[2]/input[2]",
+      "input_3": [
+         "/html/body/div[2]/main/div/div[3]/div[1]/div[1]/form/div[2]/div[1]/div[2]/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[2]/main/div/div[3]/div[1]/div[1]/form/div[2]/div[1]/div[3]/button"
+   },
+   "https://www.vet-biotop.ru/uslugi/kastracziya.php": {
+      "click_0": "/html/body/div[1]/header/div/div[3]/div/div/p[2]/a",
+      "click_1": "/html/body/div[2]/div/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div/div/form/div[2]/input[1]",
+      "input_4": [
+         "/html/body/div[2]/div/div/div/form/div[2]/input[1]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div/div/form/div[4]/input"
+   },
+   "https://kotovet.ru/": {
+      "click_0": "/html/body/div[1]/div[2]/div/div/div[1]/a",
+      "click_1": "/html/body/div[10]/div[1]/div/div/form/div[2]/div[2]/div/input",
+      "input_2": [
+         "/html/body/div[10]/div[1]/div/div/form/div[2]/div[2]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[10]/div[1]/div/div/form/div[2]/div[3]/div/input",
+      "input_4": [
+         "/html/body/div[10]/div[1]/div/div/form/div[2]/div[3]/div/input",
+         "name"
+      ],
+      "click_5": "/html/body/div[10]/div[1]/div/div/form/div[2]/div[4]/label",
+      "click_6": "/html/body/div[10]/div[1]/div/div/form/div[3]/button"
+   },
+   "https://vetbvc.ru/": {
+      "click_0": "/html/body/header/div[1]/div/div/div[4]/button",
+      "click_1": "/html/body/div[3]/div/div/div[1]/div[5]/label/span[1]",
+      "click_2": "/html/body/div[3]/div/div/div[1]/div[2]/input",
+      "input_3": [
+         "/html/body/div[3]/div/div/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_4": "/html/body/div[3]/div/div/div[1]/div[3]/input",
+      "input_5": [
+         "/html/body/div[3]/div/div/div[1]/div[3]/input",
+         "phone_without_county_code"
+      ],
+      "click_6": "/html/body/div[3]/div/div/div[1]/button"
+   },
+   "https://vet-doma.ru/": {
+      "click_0": "/html/body/section[2]/div/div/div[1]/div[1]/div[2]/div[2]/form/input[1]",
+      "input_1": [
+         "/html/body/section[2]/div/div/div[1]/div[1]/div[2]/div[2]/form/input[1]",
+         "name"
+      ],
+      "click_2": "/html/body/section[2]/div/div/div[1]/div[1]/div[2]/div[2]/form/input[2]",
+      "input_3": [
+         "/html/body/section[2]/div/div/div[1]/div[1]/div[2]/div[2]/form/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/section[2]/div/div/div[1]/div[1]/div[2]/div[2]/form/input[3]"
+   },
+   "https://kotopes.su/vyzov.html": {
+      "click_0": "/html/body/div[2]/div[2]/div/div[2]/button",
+      "click_1": "/html/body/div[3]/div/div/div/div/div/form/fieldset/table/tbody/tr[2]/td/input",
+      "input_2": [
+         "/html/body/div[3]/div/div/div/div/div/form/fieldset/table/tbody/tr[2]/td/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div/div/div/div/form/fieldset/table/tbody/tr[3]/td/input",
+      "input_4": [
+         "/html/body/div[3]/div/div/div/div/div/form/fieldset/table/tbody/tr[3]/td/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[3]/div/div/div/div/div/form/fieldset/table/tfoot/tr[2]/td/div/input"
+   },
+   "https://vetyslugi.ru/": {
+      "click_0": "/html/body/div[1]/div/main/div/div/div/article/div/div/div/section[1]/div[2]/div/div/section[1]/div/div[2]/div/div[7]/div/div/a/span/span",
+      "click_1": "/html/body/div[7]/div/div[2]/div/div/section/div[2]/div/div/section/div/div/div/div[4]/div/form/div/div[1]/input",
+      "input_2": [
+         "/html/body/div[7]/div/div[2]/div/div/section/div[2]/div/div/section/div/div/div/div[4]/div/form/div/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[7]/div/div[2]/div/div/section/div[2]/div/div/section/div/div/div/div[4]/div/form/div/div[2]/input",
+      "input_4": [
+         "/html/body/div[7]/div/div[2]/div/div/section/div[2]/div/div/section/div/div/div/div[4]/div/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[7]/div/div[2]/div/div/section/div[2]/div/div/section/div/div/div/div[4]/div/form/div/div[4]/button/span"
+   },
+   "https://triovetplus.ru/price": {
+      "click_0": "/html/body/div[2]/div/div[1]/div/div[2]/section/div/section/section/div/div/div/div/div/article/div/div/div/div[4]/div/div/div/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[2]/div/div[1]/div/div[2]/section/div/section/section/div/div/div/div/div/article/div/div/div/div[4]/div/div/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div/div[1]/div/div[2]/section/div/section/section/div/div/div/div/div/article/div/div/div/div[4]/div/div/div/div/form/div[2]/input",
+      "input_3": [
+         "/html/body/div[2]/div/div[1]/div/div[2]/section/div/section/section/div/div/div/div/div/article/div/div/div/div[4]/div/div/div/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[2]/div/div[1]/div/div[2]/section/div/section/section/div/div/div/div/div/article/div/div/div/div[4]/div/div/div/div/form/div[4]/input",
+      "click_5": "/html/body/div[2]/div/div[1]/div/div[2]/section/div/section/section/div/div/div/div/div/article/div/div/div/div[4]/div/div/div/div/form/button"
+   },
+   "https://k-vet.ru/reproduction/poleznye-sovety/khimicheskaya-kastratsiya/": {
+      "click_0": "/html/body/header/div[2]/div/div[1]/a[9]",
+      "click_1": "/html/body/div/div[1]/div[2]/form/div[2]/input",
+      "input_2": [
+         "/html/body/div/div[1]/div[2]/form/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div/div[1]/div[2]/form/div[5]/input",
+      "input_4": [
+         "/html/body/div/div[1]/div[2]/form/div[5]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div/div[1]/div[2]/form/input"
+   },
+   "https://vielclinic.ru/contacts/": {
+      "click_0": "/html/body/div[1]/div/section[3]/div/div/div[3]/form/div[1]/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div/section[3]/div/div/div[3]/form/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div/section[3]/div/div/div[3]/form/div[1]/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div/section[3]/div/div/div[3]/form/div[1]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div/section[3]/div/div/div[3]/form/div[2]/div/input"
+   },
+   "https://leto.clinic/lechenie/shizofreniya/": {
+      "click_0": "/html/body/div[1]/div[1]/header/div/div/div/div/div/div[3]/div[1]/a[2]",
+      "click_1": "/html/body/div[2]/div/div[2]/div/form/div[2]/span/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[2]/div/form/div[2]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[2]/div/div[2]/div/form/div[3]/input"
+   },
+   "https://preobrazhenie.ru/zapisatsya-na-priem/": {
+      "click_0": "/html/body/div[1]/div[3]/div[1]/div/div/div/div/div[2]/div/form/p[1]/label[1]/span/input",
+      "input_1": [
+         "/html/body/div[1]/div[3]/div[1]/div/div/div/div/div[2]/div/form/p[1]/label[1]/span/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[3]/div[1]/div/div/div/div/div[2]/div/form/p[1]/label[2]/span/input",
+      "input_3": [
+         "/html/body/div[1]/div[3]/div[1]/div/div/div/div/div[2]/div/form/p[1]/label[2]/span/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[3]/div[1]/div/div/div/div/div[2]/div/form/p[2]/input"
+   },
+   "https://cordiamed.ru/psy/sizofrenia/": {
+      "click_0": "/html/body/div[1]/header/div[1]/div/div[3]/div/a",
+      "click_1": "/html/body/div[5]/div[1]/div/div/div/div/form/p/span[1]/input",
+      "input_2": [
+         "/html/body/div[5]/div[1]/div/div/div/div/form/p/span[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[5]/div[1]/div/div/div/div/form/p/span[2]/input",
+      "input_4": [
+         "/html/body/div[5]/div[1]/div/div/div/div/form/p/span[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[5]/div[1]/div/div/div/div/form/p/span[3]/span/span/label/input",
+      "click_6": "/html/body/div[5]/div[1]/div/div/div/div/form/p/input"
+   },
+   "https://mckorsakov.ru/psikhiatriya/lechenie-zabolevanij-i-rasstrojstv/shizofreniya": {
+      "click_0": "/html/body/div[1]/div/section[6]/div/div/div[2]/div/article/div[3]/div[6]/div/div[1]/div/button",
+      "click_1": "/html/body/div[1]/div/section[6]/div/div/div[2]/div/article/div[3]/div[6]/div/div[1]/div/div[1]/div[1]/div[1]/div[1]/span/input",
+      "input_2": [
+         "/html/body/div[1]/div/section[6]/div/div/div[2]/div/article/div[3]/div[6]/div/div[1]/div/div[1]/div[1]/div[1]/div[1]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[1]/div/section[6]/div/div/div[2]/div/article/div[3]/div[6]/div/div[1]/div/div[1]/div[1]/div[1]/div[1]/div"
+   },
+   "https://mosmed.ru/mosmed-klinika-funktsionalnyih-narusheniy/napravlenie-psihiatriya/lechenie_shizofrenii": {
+      "click_0": "/html/body/div[1]/div/div[2]/div/span",
+      "click_1": "/html/body/div[8]/div[2]/div[2]/input[1]",
+      "input_2": [
+         "/html/body/div[8]/div[2]/div[2]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[8]/div[2]/div[2]/input[2]"
+   },
+   "https://neiro-psy.ru/": {
+      "click_0": "/html/body/header/nav/p/button",
+      "click_1": "/html/body/dialog/form/p[1]/input",
+      "input_2": [
+         "/html/body/dialog/form/p[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/dialog/form/p[2]/input",
+      "input_4": [
+         "/html/body/dialog/form/p[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/dialog/form/button"
+   },
+   "https://rehabfamily.com/articles/shizofreniya/": {
+      "click_0": "/html/body/div[6]/div[1]/div[3]/div[3]/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[6]/div[1]/div[3]/div[3]/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[6]/div[1]/div[3]/div[3]/form/div[2]/input",
+      "input_3": [
+         "/html/body/div[6]/div[1]/div[3]/div[3]/form/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[6]/div[1]/div[3]/div[3]/form/div[3]/input"
+   },
+   "https://www.bechterev.ru/uslugi/psihiatriya/shizofreniya/": {
+      "click_0": "/html/body/div[1]/section[1]/div[2]/div/div/div/div/div[2]/div/div[2]/div[2]/form/input[4]",
+      "input_1": [
+         "/html/body/div[1]/section[1]/div[2]/div/div/div/div/div[2]/div/div[2]/div[2]/form/input[4]",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[1]/section[1]/div[2]/div/div/div/div/div[2]/div/div[2]/div[2]/form/button/span[1]"
+   },
+   "https://habarovsk.softcall.ru/": {
+      "click_0": "/html/body/div[4]/div/div[1]/div[2]/div[2]",
+      "click_1": "/html/body/div[1]/div/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div/div[1]/div/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[1]/div/div[1]/div/button"
+   },
+   "https://khab.1zeh.ru/kontakty/": {
+      "click_0": "/html/body/div[6]/div/div[3]/div[2]/div/div[1]/div/span",
+      "click_1": "/html/body/div[10]/div/div/div[2]/div/div/div[2]/div[2]/form/div[1]/div/div/div/div/input",
+      "input_2": [
+         "/html/body/div[10]/div/div/div[2]/div/div/div[2]/div[2]/form/div[1]/div/div/div/div/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[10]/div/div/div[2]/div/div/div[2]/div[2]/form/div[3]/div/button"
+   },
+   "https://premium-practice.vip/": {
+      "click_0": "/html/body/div[2]/div[1]/div/div/div[3]/div[4]/a",
+      "click_1": "/html/body/div[4]/div/div[2]/div/div/div/form/div/div[4]/input",
+      "input_2": [
+         "/html/body/div[4]/div/div[2]/div/div/div/form/div/div[4]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[4]/div/div[2]/div/div/div/form/div/div[5]/input",
+      "input_4": [
+         "/html/body/div[4]/div/div[2]/div/div/div/form/div/div[5]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[4]/div/div[2]/div/div/div/form/div/div[6]/input"
+   },
+   "https://happyoldage.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div[1]/div/div/div[10]/div/a",
+      "click_1": "/html/body/div[1]/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[1]/div[2]/input",
+      "input_2": [
+         "/html/body/div[1]/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[2]/div[2]/div[1]/input[1]",
+      "input_4": [
+         "/html/body/div[1]/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[2]/div[2]/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[4]/button"
+   },
+   "https://rosa.clinic/psikhiatriya/": {
+      "click_0": "/html/body/section[1]/article/div[3]/div[1]/form/label[1]/input",
+      "input_1": [
+         "/html/body/section[1]/article/div[3]/div[1]/form/label[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/section[1]/article/div[3]/div[1]/form/label[2]/input",
+      "input_3": [
+         "/html/body/section[1]/article/div[3]/div[1]/form/label[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/section[1]/article/div[3]/div[1]/form/input[2]"
+   },
+   "https://clinicanp.ru/uslugi/psihiatricheskaya-pomoshh/lechenie-shizofrenii/": {
+      "click_0": "/html/body/section/div/div/div[2]/div[2]/div[2]/div/div[2]/a",
+      "click_1": "/html/body/div[1]/div/div/div/form/input[2]",
+      "input_2": [
+         "/html/body/div[1]/div/div/div/form/input[2]",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div/div/div/form/input[3]",
+      "input_4": [
+         "/html/body/div[1]/div/div/div/form/input[3]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div/div/div/form/div/button"
+   },
+   "https://psikhiatr.clinic/": {
+      "click_0": "/html/body/section[1]/div/div[1]/div/div/div/div/div/div/div[2]/div/form/div/div[1]/div[1]/div/input",
+      "input_1": [
+         "/html/body/section[1]/div/div[1]/div/div/div/div/div/div/div[2]/div/form/div/div[1]/div[1]/div/input",
+         "name"
+      ],
+      "click_2": "/html/body/section[1]/div/div[1]/div/div/div/div/div/div/div[2]/div/form/div/div[1]/div[2]/div/input",
+      "input_3": [
+         "/html/body/section[1]/div/div[1]/div/div/div/div/div/div/div[2]/div/form/div/div[1]/div[2]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/section[1]/div/div[1]/div/div/div/div/div/div/div[2]/div/form/div/div[2]/div/div[2]/button"
+   },
+   "https://narkolog-psihiatr.ru/lechenie-shizofrenii/": {
+      "click_0": "/html/body/div[1]/div[1]/div/div/div[1]/div/main/article/div/div[2]/form/span[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[1]/div/div/div[1]/div/main/article/div/div[2]/form/span[1]/input",
+         "phone"
+      ],
+      "click_2": "/html/body/div[1]/div[1]/div/div/div[1]/div/main/article/div/div[2]/form/input"
+   },
+   "https://lasalute-clinic.ru/psixiatriya/shizofreniya": {
+      "click_0": "/html/body/header/div[2]/div/div/div[9]/button/span",
+      "click_1": "/html/body/div[9]/div[2]/div[4]/div/form/span[1]/input",
+      "input_2": [
+         "/html/body/div[9]/div[2]/div[4]/div/form/span[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[9]/div[2]/div[4]/div/form/span[2]/input",
+      "input_4": [
+         "/html/body/div[9]/div[2]/div[4]/div/form/span[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[9]/div[2]/div[4]/div/form/div[2]/p/button"
+   },
+   "https://polyclinika.ru/tech/shizofreniya-formy-simptomy-lechenie/": {
+      "click_0": "/html/body/div[1]/header/div[1]/div/div[2]/a",
+      "click_1": "/html/body/div[7]/div[2]/div[4]/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[7]/div[2]/div[4]/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[7]/div[2]/div[4]/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[7]/div[2]/div[4]/div/div/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[7]/div[2]/div[4]/div/div/form/div[9]/button"
+   },
+   "https://www.granatmc.ru/services/backcall/": {
+      "click_0": "/html/body/div[2]/div[2]/div[1]/div/section[3]/div/div/div/div[3]/div/form/div[1]/div[1]/input",
+      "input_1": [
+         "/html/body/div[2]/div[2]/div[1]/div/section[3]/div/div/div/div[3]/div/form/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div[2]/div[1]/div/section[3]/div/div/div/div[3]/div/form/div[1]/div[2]/input",
+      "input_3": [
+         "/html/body/div[2]/div[2]/div[1]/div/section[3]/div/div/div/div[3]/div/form/div[1]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[2]/div[2]/div[1]/div/section[3]/div/div/div/div[3]/div/form/div[2]/div[2]/input"
+   },
+   "https://chistye-serdtsa.ru/kontakty/": {
+      "click_0": "/html/body/div[3]/div[2]/div/div/div/div/section[4]/div[2]/div/div/div/div/form/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[3]/div[2]/div/div/div/div/section[4]/div[2]/div/div/div/div/form/div/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[3]/div[2]/div/div/div/div/section[4]/div[2]/div/div/div/div/form/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[3]/div[2]/div/div/div/div/section[4]/div[2]/div/div/div/div/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[3]/div[2]/div/div/div/div/section[4]/div[2]/div/div/div/div/form/div/div[4]/button/span"
+   },
+   "https://narcorehab.com/anonimnoe-lechenie-alkogolizma/": {
+      "click_0": "/html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/input[2]",
+      "input_1": [
+         "/html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/input[2]",
+         "name"
+      ],
+      "click_2": "/html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/input[3]",
+      "input_3": [
+         "/html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/input[3]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[5]/div/div[2]/div/div[1]/div/div[2]/form/button"
+   },
+   "https://k-medica.ru/diseases/shizofreniya/": {
+      "click_0": "/html/body/div[9]/div[1]/div[3]/div/div[1]/a",
+      "click_1": "/html/body/div[12]/div/div[2]/div[2]/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[12]/div/div[2]/div[2]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[12]/div/div[2]/div[2]/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[12]/div/div[2]/div[2]/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[12]/div/div[2]/div[2]/form/div[3]/input"
+   },
+   "https://cmd-kotelniki.ru/": {
+      "click_0": "/html/body/div[1]/div[27]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[1]/div[2]/input",
+      "input_1": [
+         "/html/body/div[1]/div[27]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[27]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[2]/div[2]/div[1]/input[1]",
+      "input_3": [
+         "/html/body/div[1]/div[27]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[2]/div[2]/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[27]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[6]/button"
+   },
+   "https://kdc24.ru/": {
+      "click_0": "/html/body/div[2]/div[1]/div[1]/div[2]/div[2]",
+      "click_1": "/html/body/div[14]/div[1]/div[1]/div[1]/div[1]/span/input",
+      "input_2": [
+         "/html/body/div[14]/div[1]/div[1]/div[1]/div[1]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[14]/div[1]/div[1]/div[1]/div[1]/div"
+   },
+   "http://пни11.рф/index.php/contacts/zakazat-zvonok": {
+      "click_0": "/html/body/div[3]/div/div/div/main/article/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[3]/div/div/div/main/article/div/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[3]/div/div/div/main/article/div/form/div[2]/input",
+      "input_3": [
+         "/html/body/div[3]/div/div/div/main/article/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[3]/div/div/div/main/article/div/form/div[3]/input"
+   },
+   "https://analyz24.ru/vyezdnaya-brigada/": {
+      "click_0": "/html/body/div[3]/div/div[5]/div[2]/div/div/form/div[3]/div[1]/input",
+      "input_1": [
+         "/html/body/div[3]/div/div[5]/div[2]/div/div/form/div[3]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[3]/div/div[5]/div[2]/div/div/form/div[3]/div[2]/input",
+      "input_3": [
+         "/html/body/div[3]/div/div[5]/div[2]/div/div/form/div[3]/div[2]/input",
+         "town"
+      ],
+      "click_4": "/html/body/div[3]/div/div[5]/div[2]/div/div/form/div[3]/div[3]/input",
+      "input_5": [
+         "/html/body/div[3]/div/div[5]/div[2]/div/div/form/div[3]/div[3]/input",
+         "phone_without_county_code"
+      ],
+      "click_6": "/html/body/div[3]/div/div[5]/div[2]/div/div/form/div[5]/div[1]/div/label/input",
+      "click_7": "/html/body/div[3]/div/div[5]/div[2]/div/div/form/div[5]/div[2]/div/button"
+   },
+   "https://ego-lab.ru/contacts/": {
+      "click_0": "/html/body/div[1]/div[1]/div/div[5]/button",
+      "click_1": "/html/body/div[4]/div/form/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[4]/div/form/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[4]/div/form/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[4]/div/form/div[2]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[4]/div/form/div[4]/label/span[1]",
+      "click_6": "/html/body/div[4]/div/form/div[3]/button"
+   },
+   "http://azhur-clean.ru/": {
+      "click_0": "/html/body/div[2]/input",
+      "click_1": "/html/body/div[3]/form/div[2]/span[2]/input",
+      "input_2": [
+         "/html/body/div[3]/form/div[2]/span[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/form/div[2]/span[4]/input",
+      "input_4": [
+         "/html/body/div[3]/form/div[2]/span[4]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[3]/form/span/button"
+   },
+   "https://an-telecom.ru/saytfon": {
+      "click_0": "/html/body/section/section[1]/div/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/section/section[1]/div/div/form/div[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/section/section[1]/div/div/form/div[2]/div"
+   },
+   "https://mirit-med.ru/uslugi/": {
+      "click_0": "/html/body/div[1]/header/div[1]/div[3]/button",
+      "click_1": "/html/body/div[1]/div[3]/div[2]/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[1]/div[3]/div[2]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[3]/div[2]/form/div[3]/input",
+      "input_4": [
+         "/html/body/div[1]/div[3]/div[2]/form/div[3]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div[3]/div[2]/form/button"
+   },
+   "https://moskva.trezvost.rehab/lechenie-narkomanii/": {
+      "click_0": "/html/body/header/div[2]/div/div/div[2]/div/div[2]/div[1]/div[2]/a",
+      "click_1": "/html/body/div[17]/div[2]/div[4]/div/div/form/input[7]",
+      "input_2": [
+         "/html/body/div[17]/div[2]/div[4]/div/div/form/input[7]",
+         "name"
+      ],
+      "click_3": "/html/body/div[17]/div[2]/div[4]/div/div/form/input[8]",
+      "input_4": [
+         "/html/body/div[17]/div[2]/div[4]/div/div/form/input[8]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[17]/div[2]/div[4]/div/div/form/button"
+   },
+   "https://narkologiya24.clinic/uslugi-i-ceny/lechenie-narkomanii/": {
+      "click_0": "/html/body/div[1]/header/div[1]/div/div/div[2]/div/div[5]/a",
+      "click_1": "/html/body/div[2]/div/div[1]/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/form/button"
+   },
+   "https://moscow.reshenie-online.ru/": {
+      "click_0": "/html/body/div[5]/div/div/div/div[2]/div/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[5]/div/div/div/div[2]/div/form/div[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[5]/div/div/div/div[2]/div/form/div[2]/input"
+   },
+   "https://msk-narkology.ru/narkomaniya/": {
+      "click_0": "/html/body/div[5]/div[1]/header/div[2]/span/ul/li[2]/a",
+      "click_1": "/html/body/div[6]/div/div[2]/form/p/span[1]/input",
+      "input_2": [
+         "/html/body/div[6]/div/div[2]/form/p/span[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[6]/div/div[2]/form/p/span[2]/input",
+      "input_4": [
+         "/html/body/div[6]/div/div[2]/form/p/span[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[6]/div/div[2]/form/p/input"
+   },
+   "https://moskva.zapoy.pro/narkologicheskaya-pomosch/lechenie-narkomanii/": {
+      "click_0": "/html/body/div[3]/div[2]/div/div/div[2]/form/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[3]/div[2]/div/div/div[2]/form/div/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[3]/div[2]/div/div/div[2]/form/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[3]/div[2]/div/div/div[2]/form/div/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[3]/div[2]/div/div/div[2]/form/div/div[3]/input"
+   },
+   "https://klinika-korsakov.ru/ekstrennaya-pomoshh/vyzov-narkologa/": {
+      "click_0": "/html/body/div[1]/div[9]/div/div/div/form/div[4]/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[9]/div/div/div/form/div[4]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[9]/div/div/div/form/div[4]/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[9]/div/div/div/form/div[4]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[9]/div/div/div/form/div[4]/input"
+   },
+   "https://vrach-alko.ru/": {
+      "click_0": "/html/body/header/div[1]/div/div[3]/a",
+      "click_1": "/html/body/div[1]/div/div[1]/form/fieldset/div[1]/input",
+      "input_2": [
+         "/html/body/div[1]/div/div[1]/form/fieldset/div[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[1]/div/div[1]/form/fieldset/div[2]/div[1]/input"
+   },
+   "https://lordmed.ru/": {
+      "click_0": "/html/body/div[2]/div/header/div[2]/div/div[2]/div[2]/button[1]",
+      "click_1": "/html/body/div[4]/div/div[2]/div/form/p/span[1]/input",
+      "input_2": [
+         "/html/body/div[4]/div/div[2]/div/form/p/span[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[4]/div/div[2]/div/form/p/input"
+   },
+   "https://verimed.ru/": {
+      "click_0": "/html/body/div[1]/header/div/div[1]/div/div/div[2]/aside/div/div/p/a[3]",
+      "click_1": "/html/body/div[5]/div/div[9]/div/div/div/form/p[3]/label/span/input",
+      "input_2": [
+         "/html/body/div[5]/div/div[9]/div/div/div/form/p[3]/label/span/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[5]/div/div[9]/div/div/div/form/p[5]/input"
+   },
+   "https://ne-zavisimost.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div/div/div/a[3]",
+      "click_1": "/html/body/div[2]/div/div/div/div/form/p/label[1]/span[2]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div/div/div/form/p/label[1]/span[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div/div/div/form/p/label[2]/span[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div/div/div/form/p/label[2]/span[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div/div/div/form/p/input"
+   },
+   "https://moskva.narkolog.express/uslugi/lechenie-narkamanii/": {
+      "click_0": "/html/body/div[1]/footer/div[2]/div/div/ul[4]/li[2]/div/button",
+      "click_1": "/html/body/div[2]/div/form/div[1]/input[1]",
+      "input_2": [
+         "/html/body/div[2]/div/form/div[1]/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/form/div[1]/input[2]",
+      "input_4": [
+         "/html/body/div[2]/div/form/div[1]/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/form/div[1]/button"
+   },
+   "https://www.czm.su/lechenie-narkomanii": {
+      "click_0": "/html/body/div[2]/div[1]/div[2]/div[1]/div/div[1]/a",
+      "click_1": "/html/body/div[7]/div[2]/div/div/div/div/div/form/div/div[2]/input",
+      "input_2": [
+         "/html/body/div[7]/div[2]/div/div/div/div/div/form/div/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[7]/div[2]/div/div/div/div/div/form/div/div[3]/input",
+      "input_4": [
+         "/html/body/div[7]/div[2]/div/div/div/div/div/form/div/div[3]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[7]/div[2]/div/div/div/div/div/form/div/div[8]/input"
+   },
+   "https://alcopomosh.ru/zvonok/": {
+      "click_0": "/html/body/div[2]/div[4]/div/div/main/div/article/div/div[2]/div[2]/div/div/div/div[1]/form/div[2]/span/input",
+      "input_1": [
+         "/html/body/div[2]/div[4]/div/div/main/div/article/div/div[2]/div[2]/div/div/div/div[1]/form/div[2]/span/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div[4]/div/div/main/div/article/div/div[2]/div[2]/div/div/div/div[1]/form/div[3]/span/input",
+      "input_3": [
+         "/html/body/div[2]/div[4]/div/div/main/div/article/div/div[2]/div[2]/div/div/div/div[1]/form/div[3]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[2]/div[4]/div/div/main/div/article/div/div[2]/div[2]/div/div/div/div[1]/form/div[4]/input"
+   },
+   "https://preleksmed.ru/nashi-uslugi/lechenie-narkomanii/": {
+      "click_0": "/html/body/div[1]/header/div[2]/div/div/div/div[2]/div",
+      "click_1": "/html/body/div[3]/div/div[2]/div/form/div[2]/div/div[1]/div/span/input",
+      "input_2": [
+         "/html/body/div[3]/div/div[2]/div/form/div[2]/div/div[1]/div/span/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div[2]/div/form/div[2]/div/div[2]/div/span/input",
+      "input_4": [
+         "/html/body/div[3]/div/div[2]/div/form/div[2]/div/div[2]/div/span/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div/div[2]/div/form/div[2]/div/div[3]/span[1]/span/span/label/input",
+      "click_6": "/html/body/div[3]/div/div[2]/div/form/div[2]/div/div[4]/div/input"
+   },
+   "https://moscow.stop-alko.ru/vyvod-iz-zapoya/kapelnitsa-ot-zapoya/": {
+      "click_0": "/html/body/div[12]/div/div[3]/div/div[1]/div/div[3]/form/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[12]/div/div[3]/div/div[1]/div/div[3]/form/div/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[12]/div/div[3]/div/div[1]/div/div[3]/form/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[12]/div/div[3]/div/div[1]/div/div[3]/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[12]/div/div[3]/div/div[1]/div/div[3]/form/div/div[3]/input"
+   },
+   "https://yakutsk.huntercam.ru/cart": {
+      "click_0": "/html/body/div[1]/div[1]/div[1]/div[2]/div/div/div[3]/div[2]/div/a",
+      "click_1": "/html/body/div[2]/div/div[1]/div/form/div/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/div/form/div/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/div/form/div/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/div/form/div/div[2]/div/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/div/form/div/div[4]/button"
+   },
+   "https://sistema-plus.su/": {
+      "click_0": "/html/body/div[3]/div/header[1]/div/div/div/div[2]/div/div[3]/div/div/div/a",
+      "click_1": "/html/body/div[7]/div/div/div/form/div[2]/div[1]/input",
+      "input_2": [
+         "/html/body/div[7]/div/div/div/form/div[2]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[7]/div/div/div/form/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[7]/div/div/div/form/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[7]/div/div/div/form/div[3]/button"
+   },
+   "https://vet24city.ru/sterilizaciya-koshki": {
+      "click_0": "/html/body/div[1]/div[10]/div/div[3]/div/div/a/table/tbody/tr/td",
+      "click_1": "/html/body/div[1]/div[15]/div/div/div/div/div/div[2]/form/div[2]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div[15]/div/div/div/div/div/div[2]/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[15]/div/div/div/div/div/div[2]/form/div[2]/div[2]/div/div[1]/input[1]",
+      "input_4": [
+         "/html/body/div[1]/div[15]/div/div/div/div/div/div[2]/form/div[2]/div[2]/div/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div[15]/div/div/div/div/div/div[2]/form/div[2]/div[6]/div[2]/div[1]/label[1]/div",
+      "click_6": "/html/body/div[1]/div[15]/div/div/div/div/div/div[2]/form/div[2]/div[8]/button"
+   },
+   "https://банкротство.ru.com/": {
+      "click_0": "/html/body/div[2]/div[4]/div/div/div[6]/div[1]/form/div[2]/div[1]/div[2]/input",
+      "input_1": [
+         "/html/body/div[2]/div[4]/div/div/div[6]/div[1]/form/div[2]/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div[4]/div/div/div[6]/div[1]/form/div[2]/div[3]/div[2]/input",
+      "input_3": [
+         "/html/body/div[2]/div[4]/div/div/div[6]/div[1]/form/div[2]/div[3]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[2]/div[4]/div/div/div[6]/div[1]/form/div[2]/div[5]/button"
+   },
+   "https://moscow.novo-tera.ru/": {
+      "click_0": "/html/body/header/div[1]/div/div[1]",
+      "click_1": "/html/body/div[4]/div/div[1]/div[2]/div/form/p[1]/span[1]/input",
+      "input_2": [
+         "/html/body/div[4]/div/div[1]/div[2]/div/form/p[1]/span[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[4]/div/div[1]/div[2]/div/form/p[2]/input"
+   },
+   "https://online-kassa.ru/": {
+      "click_0": "/html/body/header/section[2]/div/div/div[2]/div[2]/a/span[2]",
+      "click_1": "/html/body/div[9]/div[2]/div/form/div[2]/div/div[2]/div[2]/div[1]/span/input",
+      "input_2": [
+         "/html/body/div[9]/div[2]/div/form/div[2]/div/div[2]/div[2]/div[1]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[9]/div[2]/div/form/div[2]/div/div[2]/div[2]/div[2]/input"
+   },
+   "https://remont-video-russ.ru/": {
+      "click_0": "/html/body/div[1]/div[3]/div[4]/div/div/div[6]/div[1]/form/div[2]/div[1]/div/div[1]/input[1]",
+      "input_1": [
+         "/html/body/div[1]/div[3]/div[4]/div/div/div[6]/div[1]/form/div[2]/div[1]/div/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[1]/div[3]/div[4]/div/div/div[6]/div[1]/form/div[2]/div[3]/button"
+   },
+   "https://tv-clinic.ru/": {
+      "click_0": "/html/body/div[1]/div[6]/div/div/div/div/div[3]/div/div/div/div/div/div/div/div/div/div/div/div[1]/div/button/span",
+      "click_1": "/html/body/div[1]/div[13]/div/div/div[2]/div/div/div/div/div/form/div[1]/div[1]/div[2]/input",
+      "input_2": [
+         "/html/body/div[1]/div[13]/div/div/div[2]/div/div/div/div/div/form/div[1]/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[13]/div/div/div[2]/div/div/div/div/div/form/div[1]/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[1]/div[13]/div/div/div[2]/div/div/div/div/div/form/div[1]/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div[13]/div/div/div[2]/div/div/div/div/div/form/div[2]/div/button/input"
+   },
+   "https://tv-doktor.ru/": {
+      "click_0": "/html/body/div/div[2]/div[3]/div/div/div/div/div[2]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div[2]/div/div[2]/input",
+      "input_1": [
+         "/html/body/div/div[2]/div[3]/div/div/div/div/div[2]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[1]/div/div/div[2]/div/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div/div[2]/div[3]/div/div/div/div/div[2]/div/div/div/div[1]/div/div[3]/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/button/div[2]/span/span"
+   },
+   "https://tv-remnt.com/#": {
+      "click_0": "/html/body/main/div[5]/div[1]/div/div[1]/form/input[1]",
+      "input_1": [
+         "/html/body/main/div[5]/div[1]/div/div[1]/form/input[1]",
+         "name"
+      ],
+      "click_2": "/html/body/main/div[5]/div[1]/div/div[1]/form/input[2]",
+      "input_3": [
+         "/html/body/main/div[5]/div[1]/div/div[1]/form/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/main/div[5]/div[1]/div/div[1]/form/div/input"
+   },
+   "https://mastera-videotech.ru/remont-tv.html": {
+      "click_0": "/html/body/div[2]/div[3]/table/tbody/tr/td/div/div[3]/form/input[1]",
+      "input_1": [
+         "/html/body/div[2]/div[3]/table/tbody/tr/td/div/div[3]/form/input[1]",
+         "phone"
+      ],
+      "click_2": "/html/body/div[2]/div[3]/table/tbody/tr/td/div/div[3]/form/input[2]"
+   },
+   "https://www.teleremont.pro/": {
+      "click_0": "/html/body/div[2]/div/section[1]/div/div/div[4]/div/div/div/div/div/a",
+      "click_1": "/html/body/form[1]/div[3]/div[2]/div/div/label/input",
+      "input_2": [
+         "/html/body/form[1]/div[3]/div[2]/div/div/label/input",
+         "name"
+      ],
+      "click_3": "/html/body/form[1]/div[3]/div[3]/div/div/label/input",
+      "input_4": [
+         "/html/body/form[1]/div[3]/div[3]/div/div/label/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/form[1]/div[3]/button"
+   },
+   "https://rservis24.ru/remont-televizorov/": {
+      "click_0": "/html/body/header/div[2]/div/div/div[2]/form/input",
+      "input_1": [
+         "/html/body/header/div[2]/div/div/div[2]/form/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/header/div[2]/div/div/div[2]/form/button"
+   },
+   "https://remobi.ru/remont-televizorov-tv": {
+      "click_0": "/html/body/div[1]/header/div[3]/div[3]/a[1]/span[2]",
+      "click_1": "/html/body/div[8]/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[8]/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[8]/div/form/div[2]/input[1]",
+      "input_4": [
+         "/html/body/div[8]/div/form/div[2]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[8]/div/form/button"
+   },
+   "https://mosmasters.com/tv": {
+      "click_0": "/html/body/div[3]/div[1]/div[2]/div/form/input[1]",
+      "input_1": [
+         "/html/body/div[3]/div[1]/div[2]/div/form/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[3]/div[1]/div[2]/div/form/input[3]"
+   },
+   "https://iceberg.ru/remont-televizorov/": {
+      "click_0": "/html/body/div/div[1]/section[1]/div/form/div[2]/div[1]/div[1]/div/div[1]/input",
+      "input_1": [
+         "/html/body/div/div[1]/section[1]/div/form/div[2]/div[1]/div[1]/div/div[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div/div[1]/section[1]/div/form/div[2]/div[1]/div[2]/div/div[1]/input",
+      "input_3": [
+         "/html/body/div/div[1]/section[1]/div/form/div[2]/div[1]/div[2]/div/div[1]/input",
+         "name"
+      ],
+      "click_4": "/html/body/div/div[1]/section[1]/div/form/div[2]/div[3]/button/span"
+   },
+   "https://fixit.center/remont-televizorov-v-moskve.html": {
+      "click_0": "/html/body/div[2]/main/section[1]/div/div/div/div[2]/div[3]/button",
+      "click_1": "/html/body/div[2]/main/section[1]/div/div/div/div[1]/div/div[2]/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/main/section[1]/div/div/div/div[1]/div/div[2]/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/main/section[1]/div/div/div/div[1]/div/div[2]/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/main/section[1]/div/div/div/div[1]/div/div[2]/div/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/main/section[1]/div/div/div/div[1]/div/div[2]/div/form/input[2]"
+   },
+   "https://inter-help.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div/div/div/div/div/div/div/div/div/div[3]/div/div/div/div/div[1]/div/button/span",
+      "click_1": "/html/body/div[1]/div[12]/div/div/div[2]/div/div/div/div/div/form/div[1]/div/div[2]/input",
+      "input_2": [
+         "/html/body/div[1]/div[12]/div/div/div[2]/div/div/div/div/div/form/div[1]/div/div[2]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[1]/div[12]/div/div/div[2]/div/div/div/div/div/form/div[2]/div/button/input"
+   },
+   "https://mast-inform.ru/": {
+      "click_0": "/html/body/div[1]/div[2]/div[3]/div/div/div/div/div[2]/div/div/div/div[7]/div/div/div/div/button/div[2]/span",
+      "click_1": "/html/body/div[1]/div[15]/div[2]/div/div/div/div[3]/div/div/div/div/div/div/div[1]/div/div/div[2]/input",
+      "input_2": [
+         "/html/body/div[1]/div[15]/div[2]/div/div/div/div[3]/div/div/div/div/div/div/div[1]/div/div/div[2]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[1]/div[15]/div[2]/div/div/div/div[3]/div/div/div/div/div/div/div[2]/div/div/button"
+   },
+   "https://sc-instain.ru/": {
+      "click_0": "/html/body/section[1]/div/div/div[2]/form/div[1]/input",
+      "input_1": [
+         "/html/body/section[1]/div/div/div[2]/form/div[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/section[1]/div/div/div[2]/form/div[2]/input"
+   },
+   "https://center-ses.ru/": {
+      "click_0": "/html/body/header/div[2]/div[4]/div",
+      "click_1": "/html/body/div[2]/form/div[4]/input",
+      "input_2": [
+         "/html/body/div[2]/form/div[4]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[2]/form/button"
+   },
+   "https://единая-дезинфекция.рф/": {
+      "click_0": "/html/body/div[1]/div[5]/div/div/div[6]/div[1]/form/div[2]/div[1]/div/input",
+      "input_1": [
+         "/html/body/div[1]/div[5]/div/div/div[6]/div[1]/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[5]/div/div/div[6]/div[1]/form/div[2]/div[2]/div/input",
+      "input_3": [
+         "/html/body/div[1]/div[5]/div/div/div[6]/div[1]/form/div[2]/div[2]/div/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[5]/div/div/div[6]/div[1]/form/div[2]/div[4]/button"
+   },
+   "https://klop77.ru/": {
+      "click_0": "/html/body/div[2]/div/div/section[20]/div/div/div[2]/div/div/div[3]/div/form/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[2]/div/div/section[20]/div/div/div[2]/div/div/div[3]/div/form/div/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div/div/section[20]/div/div/div[2]/div/div/div[3]/div/form/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[2]/div/div/section[20]/div/div/div[2]/div/div/div[3]/div/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[2]/div/div/section[20]/div/div/div[2]/div/div/div[3]/div/form/div/div[3]/button/span"
+   },
+   "https://msk.sesuslugi.ru/": {
+      "click_0": "/html/body/div[1]/div/div/div/div[1]/div/div/div/a",
+      "click_1": "/html/body/div[11]/div[2]/div/form/label[1]/input",
+      "input_2": [
+         "/html/body/div[11]/div[2]/div/form/label[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[11]/div[2]/div/form/label[2]/input",
+      "input_4": [
+         "/html/body/div[11]/div[2]/div/form/label[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[11]/div[2]/div/form/label[3]/input"
+   },
+   "https://dezgorkonrol-msk.ru/dezinsektsiya/": {
+      "click_0": "/html/body/div[4]/div[2]/header/div[2]/a/span",
+      "click_1": "/html/body/div[5]/div/div[2]/div/div/div[4]/form/div/div[2]/nf-fields-wrap/nf-field[2]/div/div[2]/div/div[2]/input",
+      "input_2": [
+         "/html/body/div[5]/div/div[2]/div/div/div[4]/form/div/div[2]/nf-fields-wrap/nf-field[2]/div/div[2]/div/div[2]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[5]/div/div[2]/div/div/div[4]/form/div/div[2]/nf-fields-wrap/nf-field[3]/div/div[2]/div/div[2]/input",
+      "input_4": [
+         "/html/body/div[5]/div/div[2]/div/div/div[4]/form/div/div[2]/nf-fields-wrap/nf-field[3]/div/div[2]/div/div[2]/input",
+         "10"
+      ],
+      "click_5": "/html/body/div[5]/div/div[2]/div/div/div[4]/form/div/div[2]/nf-fields-wrap/nf-field[4]/div/div[2]/div/div[2]/input"
+   },
+   "https://san-epidem.ru/dezinsekciya/": {
+      "click_0": "/html/body/div[1]/div[1]/div[4]/div/div/div[12]/a/div/span",
+      "click_1": "/html/body/div[1]/div[1]/div[2]/div/div/div[1]/div/form/div[2]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div[1]/div[2]/div/div/div[1]/div/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[1]/div[2]/div/div/div[1]/div/form/div[2]/div[2]/div/div[1]/input[1]",
+      "input_4": [
+         "/html/body/div[1]/div[1]/div[2]/div/div/div[1]/div/form/div[2]/div[2]/div/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div[1]/div[2]/div/div/div[1]/div/form/div[2]/div[4]/button/div"
+   },
+   "https://mosdezinservice.ru/uslugi/dezinsekcziya/": {
+      "click_0": "/html/body/header/div/div/div[2]/div/div[1]/a",
+      "click_1": "/html/body/div[7]/div/div/div/form/div[1]/div[1]/input",
+      "input_2": [
+         "/html/body/div[7]/div/div/div/form/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[7]/div/div/div/form/div[1]/div[2]/input",
+      "input_4": [
+         "/html/body/div[7]/div/div/div/form/div[1]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[7]/div/div/div/form/button"
+   },
+   "https://dezcentr-msk.com/": {
+      "click_0": "/html/body/div[1]/div/div/div/div/div/div[2]/form/div[2]/div[1]/div/span[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div/div/div/div/div/div[2]/form/div[2]/div[1]/div/span[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[1]/div/div/div/div/div/div[2]/form/div[2]/div[2]/div/button"
+   },
+   "https://dez-sluzhba.com/": {
+      "click_0": "/html/body/header/div/div/div/div[2]/span/button",
+      "click_1": "/html/body/div[20]/div/form/input[1]",
+      "input_2": [
+         "/html/body/div[20]/div/form/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[20]/div/form/input[3]"
+   },
+   "https://edsm.moscow/": {
+      "click_0": "/html/body/div[1]/header/div/div/div[2]/div[1]",
+      "click_1": "/html/body/noindex/div[2]/div[3]/form/p[1]/label/span/input",
+      "input_2": [
+         "/html/body/noindex/div[2]/div[3]/form/p[1]/label/span/input",
+         "name"
+      ],
+      "click_3": "/html/body/noindex/div[2]/div[3]/form/p[2]/label/span/input",
+      "input_4": [
+         "/html/body/noindex/div[2]/div[3]/form/p[2]/label/span/input",
+         "phone"
+      ],
+      "click_5": "/html/body/noindex/div[2]/div[3]/form/p[2]/input"
+   },
+   "https://sanepidem-group.ru/": {
+      "click_0": "/html/body/div[2]/div[1]/div[3]/div/div/a/span",
+      "click_1": "/html/body/div[10]/div/div/div/div/div[2]/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[10]/div/div/div/div/div[2]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[10]/div/div/div/div/div[2]/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[10]/div/div/div/div/div[2]/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[10]/div/div/div/div/div[2]/form/input[1]"
+   },
+   "https://dezprofservis.ru/": {
+      "click_0": "/html/body/div[1]/main/div/div/div[1]/div/div/div[1]/a[2]",
+      "click_1": "/html/body/div[1]/main/div/div/div[5]/div/div/div[3]/div/form/span[1]/input",
+      "input_2": [
+         "/html/body/div[1]/main/div/div/div[5]/div/div/div[3]/div/form/span[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/main/div/div/div[5]/div/div/div[3]/div/form/span[2]/input",
+      "input_4": [
+         "/html/body/div[1]/main/div/div/div[5]/div/div/div[3]/div/form/span[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/main/div/div/div[5]/div/div/div[3]/div/form/input"
+   },
+   "https://московская-дезинфекция.рф/": {
+      "click_0": "/html/body/div[2]/div[1]/div[1]/div[2]/a",
+      "click_1": "/html/body/div[4]/div/div/div[2]/div[1]/form/div/input",
+      "input_2": [
+         "/html/body/div[4]/div/div/div[2]/div[1]/form/div/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[4]/div/div/div[2]/div[2]/button"
+   },
+   "https://дезинфекция-насекомых.москва/": {
+      "click_0": "/html/body/div[1]/section[1]/div[2]/div[2]/div/div/div/div/div/div[2]/form/p[1]/label/span/input",
+      "input_1": [
+         "/html/body/div[1]/section[1]/div[2]/div[2]/div/div/div/div/div/div[2]/form/p[1]/label/span/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/section[1]/div[2]/div[2]/div/div/div/div/div/div[2]/form/p[2]/label/span/input",
+      "input_3": [
+         "/html/body/div[1]/section[1]/div[2]/div[2]/div/div/div/div/div/div[2]/form/p[2]/label/span/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/section[1]/div[2]/div[2]/div/div/div/div/div/div[2]/form/p[3]/input"
+   },
+   "https://единая-служба-дезинфекции.рф/": {
+      "click_0": "/html/body/header/div[1]/div/div/div[3]/div[2]/a",
+      "click_1": "/html/body/div[4]/div[1]/div[1]/div[1]/form/input[9]",
+      "input_2": [
+         "/html/body/div[4]/div[1]/div[1]/div[1]/form/input[9]",
+         "name"
+      ],
+      "click_3": "/html/body/div[4]/div[1]/div[1]/div[1]/form/input[10]",
+      "input_4": [
+         "/html/body/div[4]/div[1]/div[1]/div[1]/form/input[10]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[4]/div[1]/div[1]/div[1]/form/button"
+   },
+   "https://ecosave-moscow.ru/": {
+      "click_0": "/html/body/div[1]/div[4]/form/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[4]/form/div/div[1]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[1]/div[4]/form/div/div[2]/div"
+   },
+   "https://садовый-эксперт.рф/": {
+      "click_0": "/html/body/div[1]/div[2]/div/div/main/article/div/div/div/div/section[1]/div[5]/div/div[2]/div/div/div[2]/div/form/div/div[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[2]/div/div/main/article/div/div/div/div/section[1]/div[5]/div/div[2]/div/div/div[2]/div/form/div/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[2]/div/div/main/article/div/div/div/div/section[1]/div[5]/div/div[2]/div/div/div[2]/div/form/div/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[2]/div/div/main/article/div/div/div/div/section[1]/div[5]/div/div[2]/div/div/div[2]/div/form/div/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[2]/div/div/main/article/div/div/div/div/section[1]/div[5]/div/div[2]/div/div/div[2]/div/form/div/div[7]/button/span/span[2]"
+   },
+   "https://semeynaya.ru/": {
+      "click_0": "/html/body/div[3]/div[1]/div/div[2]/div/a",
+      "click_1": "/html/body/div[3]/div[4]/div/div/form/div[2]/div/div[2]/div[2]/input",
+      "input_2": [
+         "/html/body/div[3]/div[4]/div/div/form/div[2]/div/div[2]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[3]/div[4]/div/div/form/div[2]/div/div[4]/div[2]/input",
+      "input_4": [
+         "/html/body/div[3]/div[4]/div/div/form/div[2]/div/div[4]/div[2]/input",
+         "name"
+      ],
+      "click_5": "/html/body/div[3]/div[4]/div/div/form/div[2]/div/div[5]/div/button/span"
+   },
+   "https://www.mdsokol.ru/": {
+      "click_0": "/html/body/div[3]/div/div[1]/div[3]/form/input[1]",
+      "input_1": [
+         "/html/body/div[3]/div/div[1]/div[3]/form/input[1]",
+         "name"
+      ],
+      "click_2": "/html/body/div[3]/div/div[1]/div[3]/form/input[2]",
+      "input_3": [
+         "/html/body/div[3]/div/div[1]/div[3]/form/input[2]",
+         "phone"
+      ],
+      "click_4": "/html/body/div[3]/div/div[1]/div[3]/form/button"
+   },
+   "https://doctorkarapetyan.com/": {
+      "click_0": "/html/body/div[1]/div[2]/div[1]/div[3]/div/form/input",
+      "input_1": [
+         "/html/body/div[1]/div[2]/div[1]/div[3]/div/form/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[2]/div[1]/div[3]/div/form/div/input",
+      "input_3": [
+         "/html/body/div[1]/div[2]/div[1]/div[3]/div/form/div/input",
+         "phone_without_county_code"
+      ],
+      "click_4": "/html/body/div[1]/div[2]/div[1]/div[3]/div/form/button"
+   },
+   "https://doct.ru/": {
+      "click_0": "/html/body/div[1]/header/div[1]/div/div[3]/a[1]/span/span[1]",
+      "click_1": "/html/body/div[20]/div[2]/div[1]/div/div/form/div[3]/input[2]",
+      "input_2": [
+         "/html/body/div[20]/div[2]/div[1]/div/div/form/div[3]/input[2]",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[20]/div[2]/div[1]/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[20]/div[2]/div[1]/div/div/form/div[2]/input",
+         "name"
+      ],
+      "click_5": "/html/body/div[20]/div[2]/div[1]/div/div/form/div[4]/span/input"
+   },
+   "https://www.sm-plastica.ru/": {
+      "click_0": "/html/body/div[2]/div[1]/div/div/div[2]/div[2]/a[1]",
+      "click_1": "/html/body/div[2]/div/div[1]/div/div/form/div[2]/div/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/div/div/form/div[2]/div/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/div/div/form/div[2]/div/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/div/div/form/div[2]/div/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/div/div/form/div[3]/div/button/div"
+   },
+   "https://dekaclinic.ru/": {
+      "click_0": "/html/body/div[3]/div/div/nav[1]/div/div[2]/ul[2]/li[5]/a",
+      "click_1": "/html/body/div[9]/div[2]/div/form/input[1]",
+      "input_2": [
+         "/html/body/div[9]/div[2]/div/form/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[9]/div[2]/div/form/input[2]",
+      "input_4": [
+         "/html/body/div[9]/div[2]/div/form/input[2]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[9]/div[2]/div/form/div/button"
+   },
+   "https://www.sinaiclinic.ru/": {
+      "click_0": "/html/body/header/div[3]/div/div[3]/a[2]",
+      "click_1": "/html/body/div[17]/div[2]/div[4]/div/div/form/input[3]",
+      "input_2": [
+         "/html/body/div[17]/div[2]/div[4]/div/div/form/input[3]",
+         "name"
+      ],
+      "click_3": "/html/body/div[17]/div[2]/div[4]/div/div/form/input[4]",
+      "input_4": [
+         "/html/body/div[17]/div[2]/div[4]/div/div/form/input[4]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[17]/div[2]/div[4]/div/div/form/button"
+   },
+   "https://www.doctorplastic.ru/": {
+      "click_0": "/html/body/div[2]/main/section[2]/div/div/div/div/div/section[1]/div/div/div/div/div/div[2]/button",
+      "click_1": "/html/body/div[5]/div[1]/div[2]/div[2]/div[1]/form/div/div[2]/input",
+      "input_2": [
+         "/html/body/div[5]/div[1]/div[2]/div[2]/div[1]/form/div/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[5]/div[1]/div[2]/div[2]/div[1]/form/div/div[3]/input",
+      "input_4": [
+         "/html/body/div[5]/div[1]/div[2]/div[2]/div[1]/form/div/div[3]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[5]/div[1]/div[2]/div[2]/div[1]/form/div/div[4]/p/input",
+      "click_6": "/html/body/div[5]/div[1]/div[2]/div[2]/div[1]/form/div/div[6]/input"
+   },
+   "https://ispiryan-rhino.ru/": {
+      "click_0": "/html/body/div[1]/div[16]/div/div/div[7]/div[1]/form/div[2]/div[1]/div[2]/input",
+      "input_1": [
+         "/html/body/div[1]/div[16]/div/div/div[7]/div[1]/form/div[2]/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[16]/div/div/div[7]/div[1]/form/div[2]/div[2]/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[16]/div/div/div[7]/div[1]/form/div[2]/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[16]/div/div/div[7]/div[1]/form/div[2]/div[4]/button"
+   },
+   "https://bios-med.ru/": {
+      "click_0": "/html/body/div[1]/div/div[2]/a[2]",
+      "click_1": "/html/body/div[2]/div/div/div/form/input[1]",
+      "input_2": [
+         "/html/body/div[2]/div/div/div/form/input[1]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div/div/form/input[2]",
+      "input_4": [
+         "/html/body/div[2]/div/div/div/form/input[2]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div/div/form/button"
+   },
+   "https://www.mediccity.ru/": {
+      "click_0": "/html/body/div[3]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div[1]",
+      "click_1": "/html/body/div[3]/div[2]/div[2]/div[2]/div/div/div[2]/div/form/table/tbody/tr[1]/td[2]/input",
+      "input_2": [
+         "/html/body/div[3]/div[2]/div[2]/div[2]/div/div/div[2]/div/form/table/tbody/tr[1]/td[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div[2]/div[2]/div[2]/div/div/div[2]/div/form/table/tbody/tr[2]/td[2]/input",
+      "input_4": [
+         "/html/body/div[3]/div[2]/div[2]/div[2]/div/div/div[2]/div/form/table/tbody/tr[2]/td[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div[2]/div[2]/div[2]/div/div/div[2]/div/form/div[2]/input"
+   },
+   "https://osnovaclinic.ru/plasticheskaya-khirurgiya/": {
+      "click_0": "/html/body/div[5]/section[6]/div/div/form/div[1]/div/div[2]/div[1]/div/div/input",
+      "input_1": [
+         "/html/body/div[5]/section[6]/div/div/form/div[1]/div/div[2]/div[1]/div/div/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[5]/section[6]/div/div/form/div[1]/div/div[2]/div[3]/div/div/div/label/span",
+      "click_3": "/html/body/div[5]/section[6]/div/div/form/div[1]/div/div[2]/div[4]/div/button/span"
+   },
+   "https://institutbeauty.ru/": {
+      "click_0": "/html/body/div[3]/div[3]/header/div/div[1]/div/div[2]/div/div/div[2]/div/div/div[2]",
+      "click_1": "/html/body/div[9]/div[2]/div/div[1]/div/div/div/div/form/div[1]/div[1]/div/div/div/input",
+      "input_2": [
+         "/html/body/div[9]/div[2]/div/div[1]/div/div/div/div/form/div[1]/div[1]/div/div/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[9]/div[2]/div/div[1]/div/div/div/div/form/div[1]/div[2]/div/div/div/input",
+      "input_4": [
+         "/html/body/div[9]/div[2]/div/div[1]/div/div/div/div/form/div[1]/div[2]/div/div/div/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[9]/div[2]/div/div[1]/div/div/div/div/form/div[2]/div[2]/input"
+   },
+   "https://medvedev.ru/": {
+      "click_0": "/html/body/div[3]/header/div[2]/div/div/div[2]/div/div[1]/div[2]/span[2]",
+      "click_1": "/html/body/div[14]/div[1]/div/div/div[2]/div/form/div[3]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[14]/div[1]/div/div/div[2]/div/form/div[3]/div[1]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[14]/div[1]/div/div/div[2]/div/form/div[3]/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[14]/div[1]/div/div/div[2]/div/form/div[3]/div[2]/div/input",
+         "name"
+      ],
+      "click_5": "/html/body/div[14]/div[1]/div/div/div[2]/div/form/div[3]/div[4]/button"
+   },
+   "https://www.molodeu.ru/": {
+      "click_0": "/html/body/header/div[4]/div",
+      "click_1": "/html/body/div[7]/div[2]/div[4]/div/form/div[2]/input",
+      "input_2": [
+         "/html/body/div[7]/div[2]/div[4]/div/form/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[7]/div[2]/div[4]/div/form/div[3]/input",
+      "input_4": [
+         "/html/body/div[7]/div[2]/div[4]/div/form/div[3]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[7]/div[2]/div[4]/div/form/div[5]/input"
+   },
+   "https://doctor-bakov.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div/div/div[10]/div/a/img",
+      "click_1": "/html/body/div[1]/div[3]/div/div/div[1]/div/form/div[2]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div[3]/div/div/div[1]/div/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[3]/div/div/div[1]/div/form/div[2]/div[2]/div/div[1]/input[1]",
+      "input_4": [
+         "/html/body/div[1]/div[3]/div/div/div[1]/div/form/div[2]/div[2]/div/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div[3]/div/div/div[1]/div/form/div[2]/div[4]/button"
+   },
+   "https://centr-hirurgii.ru/surgery/glaznaya-khirurgiya/blefaroplastika/": {
+      "click_0": "/html/body/div[1]/header/div/div/div/div[2]/div/div[2]/a[1]",
+      "click_1": "/html/body/div[1]/div/div/div[1]/div[2]/div[4]/form/input[2]",
+      "input_2": [
+         "/html/body/div[1]/div/div/div[1]/div[2]/div[4]/form/input[2]",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div/div/div[1]/div[2]/div[4]/form/input[3]",
+      "input_4": [
+         "/html/body/div[1]/div/div/div[1]/div[2]/div[4]/form/input[3]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div/div/div[1]/div[2]/div[4]/form/button"
+   },
+   "https://grandmed.ru/meditsinskiy-turizm/": {
+      "click_0": "/html/body/div[10]/div/div[1]/div[2]/div[3]/button",
+      "click_1": "/html/body/div[22]/div/div/div[2]/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[22]/div/div/div[2]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[22]/div/div/div[2]/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[22]/div/div/div[2]/form/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[22]/div/div/div[2]/form/div[3]/div[1]/button"
+   },
+   "https://scsclean.ru/": {
+      "click_0": "/html/body/div[1]/div/header/div/div/div/div/div[1]/div/div/a",
+      "click_1": "/html/body/div[3]/div/div/div[3]/form/div[1]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[3]/div/div/div[3]/form/div[1]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div/div[3]/form/div[1]/div[2]/div/input",
+      "input_4": [
+         "/html/body/div[3]/div/div/div[3]/form/div[1]/div[2]/div/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[3]/div/div/div[3]/form/div[2]/button"
+   },
+   "https://cleandom.su/": {
+      "click_0": "/html/body/a/div[2]/div/i",
+      "click_1": "/html/body/div[9]/div/div[2]/div[2]/div[3]/input[1]",
+      "input_2": [
+         "/html/body/div[9]/div/div[2]/div[2]/div[3]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_3": "/html/body/div[9]/div/div[2]/div[2]/div[4]/button"
+   },
+   "https://www.domovenok.ru/": {
+      "click_0": "/html/body/div/div/div/main/section[3]/div/div[2]/div/form/div/div/input",
+      "input_1": [
+         "/html/body/div/div/div/main/section[3]/div/div[2]/div/form/div/div/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div/div/div/main/section[3]/div/div[2]/div/form/button"
+   },
+   "https://tcservis.ru/kliningovye-uslugi-ceny/": {
+      "click_0": "/html/body/div[2]/div/section/div/div/div[1]/article/div[2]/div[1]/div[2]/div/div/div/form/p[1]/label/span[2]/input",
+      "input_1": [
+         "/html/body/div[2]/div/section/div/div/div[1]/article/div[2]/div[1]/div[2]/div/div/div/form/p[1]/label/span[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[2]/div/section/div/div/div[1]/article/div[2]/div[1]/div[2]/div/div/div/form/p[2]/label/span[2]/input",
+      "input_3": [
+         "/html/body/div[2]/div/section/div/div/div[1]/article/div[2]/div[1]/div[2]/div/div/div/form/p[2]/label/span[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[2]/div/section/div/div/div[1]/article/div[2]/div[1]/div[2]/div/div/div/form/p[3]/input"
+   },
+   "https://klining-pro.ru/uborka/kvartir/": {
+      "click_0": "/html/body/div[2]/div/header/div[1]/div/div/div[4]/div/div[2]/span[2]",
+      "click_1": "/html/body/div[10]/div/div/div/form/div[1]/div[1]/div/div/div/input",
+      "input_2": [
+         "/html/body/div[10]/div/div/div/form/div[1]/div[1]/div/div/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[10]/div/div/div/form/div[1]/div[2]/div/div/div/input",
+      "input_4": [
+         "/html/body/div[10]/div/div/div/form/div[1]/div[2]/div/div/div/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[10]/div/div/div/form/div[2]/div[2]/input"
+   },
+   "https://www.mos-clean.ru/": {
+      "click_0": "/html/body/div[1]/header/div[1]/div/ul/li[3]/a",
+      "click_1": "/html/body/div[2]/div/div[1]/div/div[2]/div/form/div[4]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/div/div[2]/div/form/div[4]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/div/div[2]/div/form/div[5]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/div/div[2]/div/form/div[5]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/div/div[2]/div/form/div[7]/input"
+   },
+   "https://cleaning-moscow.ru/": {
+      "click_0": "/html/body/div[1]/div[15]/div/div/div[7]/div[1]/form/div[2]/div[1]/div/input",
+      "input_1": [
+         "/html/body/div[1]/div[15]/div/div/div[7]/div[1]/form/div[2]/div[1]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[1]/div[15]/div/div/div[7]/div[1]/form/div[2]/div[3]/button"
+   },
+   "https://cleanyou.ru/uborka-kottedzhey/": {
+      "click_0": "/html/body/div/div[2]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[1]/div/input",
+      "input_1": [
+         "/html/body/div/div[2]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[1]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div/div[2]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[3]/button/div"
+   },
+   "https://cleanmoskva.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div/div[3]/div[2]/button",
+      "click_1": "/html/body/div[6]/div[2]/div[4]/div/div/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[6]/div[2]/div[4]/div/div/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[6]/div[2]/div[4]/div/div/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[6]/div[2]/div[4]/div/div/div/div/form/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[6]/div[2]/div[4]/div/div/div/div/form/div[5]/button"
+   },
+   "https://andrmed.ru/order.php": {
+      "click_0": "/html/body/main/div/div/div/div/form/div[1]/div[1]/input",
+      "input_1": [
+         "/html/body/main/div/div/div/div/form/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/main/div/div/div/div/form/div[1]/div[2]/input",
+      "input_3": [
+         "/html/body/main/div/div/div/div/form/div[1]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/main/div/div/div/div/form/div[3]/div/div[2]/button"
+   },
+   "https://komsomolsk-na-amure.medelen.ru/": {
+      "click_0": "/html/body/div[2]/footer/div[1]/div[3]/a[2]",
+      "click_1": "/html/body/div[3]/div/div/form/input[7]",
+      "input_2": [
+         "/html/body/div[3]/div/div/form/input[7]",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div/form/input[8]",
+      "input_4": [
+         "/html/body/div[3]/div/div/form/input[8]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div/div/form/button"
+   },
+   "https://slovokms.ru/": {
+      "click_0": "/html/body/div[1]/div[3]/div/div/div[1]/form/p[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div[3]/div/div/div[1]/form/p[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[3]/div/div/div[1]/form/p[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[3]/div/div/div[1]/form/p[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[3]/div/div/div[1]/form/p[3]/input"
+   },
+   "https://komsomolsk-na-amure.sekret-trezvosti.ru/": {
+      "click_0": "/html/body/section[5]/div/form/input[5]",
+      "input_1": [
+         "/html/body/section[5]/div/form/input[5]",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/section[5]/div/form/button/span"
+   },
+   "https://web-osvobodim.ru/komsomolskonamur": {
+      "click_0": "/html/body/div/div[5]/div/div/div[34]/div[1]/form/div[2]/div[1]/div/div[1]/input[1]",
+      "input_1": [
+         "/html/body/div/div[5]/div/div/div[34]/div[1]/form/div[2]/div[1]/div/div[1]/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div/div[5]/div/div/div[34]/div[1]/form/div[2]/div[3]/button"
+   },
+   "https://докапиццакмс.рф/": {
+      "click_0": "/html/body/main/div/div[2]/div[1]/form/div[1]/input",
+      "input_1": [
+         "/html/body/main/div/div[2]/div[1]/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/main/div/div[2]/div[1]/form/div[2]/input",
+      "input_3": [
+         "/html/body/main/div/div[2]/div[1]/form/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/main/div/div[2]/div[1]/form/div[3]/button"
+   },
+   "https://rarus.ru/nsk/obratniy-zvonok/": {
+      "click_0": "/html/body/div[1]/div[1]/div[2]/div[2]/div/form/div/table/tbody/tr[1]/td[2]/input",
+      "input_1": [
+         "/html/body/div[1]/div[1]/div[2]/div[2]/div/form/div/table/tbody/tr[1]/td[2]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div[1]/div[2]/div[2]/div/form/div/table/tbody/tr[2]/td[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[1]/div[2]/div[2]/div/form/div/table/tbody/tr[2]/td[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[1]/div[2]/div[2]/div/form/div/p/input"
+   },
+   "https://dogvozdya.ru/callback": {
+      "click_0": "/html/body/div[1]/div/main/div/div/div/form/label[1]/input",
+      "input_1": [
+         "/html/body/div[1]/div/main/div/div/div/form/label[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[1]/div/main/div/div/div/form/label[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div/main/div/div/div/form/label[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div/main/div/div/div/form/input"
+   },
+   "https://logosib.ru/callback/confirmation": {
+      "click_0": "/html/body/div[1]/div/div[2]/div[2]/div[2]/button",
+      "click_1": "/html/body/div[2]/div/div/form/div[2]/div/div[1]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div/form/div[2]/div/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div/form/div[2]/div/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div/form/div[2]/div/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div/div/form/div[3]/button"
+   },
+   "\nhttps://novosibirsk.livoice.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div/a",
+      "click_1": "/html/body/div[1]/div[3]/form/input[4]",
+      "input_2": [
+         "/html/body/div[1]/div[3]/form/input[4]",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[3]/form/input[5]",
+      "input_4": [
+         "/html/body/div[1]/div[3]/form/input[5]",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/div[3]/form/input[8]"
+   },
+   "https://mebelvia.ru/": {
+      "click_0": "/html/body/footer/div[2]/div[2]/div[3]/div[1]/ul/li[2]/a",
+      "click_1": "/html/body/div[3]/div/div[2]/div/form/div[1]/label/input",
+      "input_2": [
+         "/html/body/div[3]/div/div[2]/div/form/div[1]/label/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div/div[2]/div/form/div[2]/label/input",
+      "input_4": [
+         "/html/body/div[3]/div/div[2]/div/form/div[2]/label/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div/div[2]/div/form/div[4]/button"
+   },
+   "https://bioelement.su/": {
+      "click_0": "/html/body/div[2]/div/header/div/div/div/div/div[3]/div[2]/a/span",
+      "click_1": "/html/body/div[2]/div/div[9]/div/div/div[2]/div/div/form/p[2]/label/span/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[9]/div/div/div[2]/div/div/form/p[2]/label/span/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[9]/div/div/div[2]/div/div/form/p[3]/label/span/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[9]/div/div/div[2]/div/div/form/p[3]/label/span/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/div[9]/div/div/div[2]/div/div/form/p[4]/span/span/span[2]/label/input",
+      "click_6": "/html/body/div[2]/div/div[9]/div/div/div[2]/div/div/form/p[5]/input"
+   },
+   "https://alisavet.ru/": {
+      "click_0": "/html/body/header/div[2]/div/div[2]/a[3]",
+      "click_1": "/html/body/div[18]/div/div[2]/form/div[4]/label/input",
+      "input_2": [
+         "/html/body/div[18]/div/div[2]/form/div[4]/label/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[18]/div/div[2]/form/div[5]/div[2]/label[1]/span",
+      "click_4": "/html/body/div[18]/div/div[2]/form/label/span",
+      "click_5": "/html/body/div[18]/div/div[2]/form/button"
+   },
+   "https://sro1expert.ru/petr-kamch/zakazat-obratnyy-zvonok": {
+      "click_0": "/html/body/div[3]/div[1]/div/main/div[4]/form/div[1]/input",
+      "input_1": [
+         "/html/body/div[3]/div[1]/div/main/div[4]/form/div[1]/input",
+         "name"
+      ],
+      "click_2": "/html/body/div[3]/div[1]/div/main/div[4]/form/div[3]/input",
+      "input_3": [
+         "/html/body/div[3]/div[1]/div/main/div[4]/form/div[3]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[3]/div[1]/div/main/div[4]/form/div[5]/span/button"
+   },
+   "https://cleanyou.ru/": {
+      "click_0": "/html/body/div/div[2]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[1]/div/input",
+      "input_1": [
+         "/html/body/div/div[2]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[1]/div/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div/div[2]/div/div[3]/div/div/div/div/div[2]/form/div[2]/div[3]/button/div"
+   },
+   "https://uborka-kvartiry.com/": {
+      "click_0": "/html/body/header/div/div[2]/button[1]",
+      "click_1": "/html/body/section[1]/div/div/div[2]/form/fieldset[1]/input",
+      "input_2": [
+         "/html/body/section[1]/div/div/div[2]/form/fieldset[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/section[1]/div/div/div[2]/form/fieldset[2]/input",
+      "input_4": [
+         "/html/body/section[1]/div/div/div[2]/form/fieldset[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/section[1]/div/div/div[2]/form/button"
+   },
+   "https://uborka-posle-remonta.com/uborka-kvartir/": {
+      "click_0": "/html/body/header/div/div[2]/div/div[2]",
+      "click_1": "/html/body/div[4]/div/form/fieldset/input[5]",
+      "input_2": [
+         "/html/body/div[4]/div/form/fieldset/input[5]",
+         "name"
+      ],
+      "click_3": "/html/body/div[4]/div/form/fieldset/input[6]",
+      "input_4": [
+         "/html/body/div[4]/div/form/fieldset/input[6]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[4]/div/form/input"
+   },
+   "https://menfi.ru/": {
+      "click_0": "/html/body/main/div/div[1]/div/div/section[1]/div/div/div[2]/div/div/div[4]/div/div/div/div/form/div[2]/label",
+      "input_1": [
+         "/html/body/main/div/div[1]/div/div/section[1]/div/div/div[2]/div/div/div[4]/div/div/div/div/form/div[2]/label",
+         "phone"
+      ],
+      "click_2": "/html/body/main/div/div[1]/div/div/section[1]/div/div/div[2]/div/div/div[4]/div/div/div/div/form/div[2]/p[3]/input"
+   },
+   "https://chistyulya24.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/header/div[1]/div[4]/div[2]/a",
+      "click_1": "/html/body/div[3]/div[1]/div/div/div/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[3]/div[1]/div/div/div/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[3]/div[1]/div/div/div/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[3]/div[1]/div/div/div/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[3]/div[1]/div/div/div/form/div[4]/button"
+   },
+   "https://cleanon.ru/": {
+      "click_0": "/html/body/div[1]/header/div/div[2]/div/div[4]/ul/li[5]/div/a/span",
+      "click_1": "/html/body/div[2]/div/div[1]/div/div/form/div/div/div/div/div[2]/div/div/div/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/div/div/form/div/div/div/div/div[2]/div/div/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/div/div/form/div/div/div/div/div[3]/div/div/div/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/div/div/form/div/div/div/div/div[3]/div/div/div/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/div/div/form/div/div/div/div/div[7]/div[1]/button"
+   },
+   "https://msk.chisto-itochka.ru/": {
+      "click_0": "/html/body/div[1]/div[3]/div/div[3]/div/div/div/div/div/div[2]/div[1]/a/table/tbody/tr/td",
+      "click_1": "/html/body/div[1]/div[12]/div/div/div[1]/div/form/div[2]/div[1]/div[2]/div[1]/label[1]/div",
+      "click_2": "/html/body/div[1]/div[12]/div/div/div[1]/div/form/div[2]/div[4]/div[2]/input",
+      "input_3": [
+         "/html/body/div[1]/div[12]/div/div/div[1]/div/form/div[2]/div[4]/div[2]/input",
+         "phone"
+      ],
+      "click_4": "/html/body/div[1]/div[12]/div/div/div[1]/div/form/div[2]/div[5]/div[2]/div[1]/label[1]/div",
+      "click_5": "/html/body/div[1]/div[12]/div/div/div[1]/div/form/div[2]/div[7]/button"
+   },
+   "https://freshclean-moscow.ru/": {
+      "click_0": "/html/body/div[1]/div[3]/div/div/div[4]/div/a",
+      "click_1": "/html/body/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[1]/div/input",
+      "input_2": [
+         "/html/body/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[1]/div/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[2]/div/input[1]",
+      "input_4": [
+         "/html/body/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[2]/div/input[1]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div[9]/div/div/div[1]/div/form/div[2]/div[4]/button"
+   },
+   "https://perspectiva-clinic.ru/": {
+      "click_0": "/html/body/div[3]/div[2]/header/div/div[4]/div[3]/fieldset/div[2]/a",
+      "click_1": "/html/body/div[12]/div/div[2]/form/p/label/span/input",
+      "input_2": [
+         "/html/body/div[12]/div/div[2]/form/p/label/span/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[12]/div/div[2]/form/p/input[2]"
+   },
+   "https://narkologya.pro/lechenie-narkomanii/": {
+      "click_0": "/html/body/div[7]/div[8]/div/div[2]/div/div/div/form/div[1]/div[5]/input",
+      "input_1": [
+         "/html/body/div[7]/div[8]/div/div[2]/div/div/div/form/div[1]/div[5]/input",
+         "phone_without_county_code"
+      ],
+      "click_2": "/html/body/div[7]/div[8]/div/div[2]/div/div/div/form/div[1]/div[7]/button"
+   },
+   "https://rnk24.ru/": {
+      "click_0": "/html/body/header/div[1]/div/div/div[4]/a",
+      "click_1": "/html/body/div[2]/div/div[1]/div/div[2]/form/div[2]/div[1]/span/input",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/div/div[2]/form/div[2]/div[1]/span/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/div/div[2]/form/div[2]/div[2]/span/input",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/div/div[2]/form/div[2]/div[2]/span/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/div/div[2]/form/div[2]/div[3]/div/div[2]/input"
+   },
+   "https://msk.narkospas24.ru/": {
+      "click_0": "/html/body/header/div/div[1]/div[1]/div[1]/div[4]/a",
+      "click_1": "/html/body/div[2]/div/div[1]/div/form/input[7]",
+      "input_2": [
+         "/html/body/div[2]/div/div[1]/div/form/input[7]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div[1]/div/form/input[8]",
+      "input_4": [
+         "/html/body/div[2]/div/div[1]/div/form/input[8]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/div[1]/div/form/button"
+   },
+   "https://horonim-msk.ru/": {
+      "click_0": "/html/body/div[1]/div[1]/div[1]/div[3]/div/div/div/div/div[3]/div/div[2]/div/div/a",
+      "click_1": "/html/body/div[2]/div[1]/div/form/div[2]/div/div[2]/div[1]/div[2]/input",
+      "input_2": [
+         "/html/body/div[2]/div[1]/div/form/div[2]/div/div[2]/div[1]/div[2]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div[1]/div/form/div[2]/div/div[2]/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div[1]/div/form/div[2]/div/div[2]/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[2]/div[1]/div/form/div[3]/button"
+   },
+   "https://ritual-msk.ru/tariffs/": {
+      "click_0": "/html/body/header/div/div/div[5]/div[3]/a",
+      "click_1": "/html/body/div[2]/div/div/div/div/form/input[2]",
+      "input_2": [
+         "/html/body/div[2]/div/div/div/div/form/input[2]",
+         "name"
+      ],
+      "click_3": "/html/body/div[2]/div/div/div/div/form/input[3]",
+      "input_4": [
+         "/html/body/div[2]/div/div/div/div/form/input[3]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[2]/div/div/div/div/form/input[6]"
+   },
+   "https://kanonritual.ru/pricecurrent/#": {
+      "click_0": "/html/body/div[1]/main/div[1]/div/div/div/div/div/section[19]/div/div/div[2]/div/div/div/div/a",
+      "click_1": "/html/body/div[1]/main/div[3]/div/div/div/form/div[2]/div[1]/input",
+      "input_2": [
+         "/html/body/div[1]/main/div[3]/div/div/div/form/div[2]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/main/div[3]/div/div/div/form/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[1]/main/div[3]/div/div/div/form/div[2]/div[2]/input",
+         "phone"
+      ],
+      "click_5": "/html/body/div[1]/main/div[3]/div/div/div/form/div[2]/div[3]/input",
+      "click_6": "/html/body/div[1]/main/div[3]/div/div/div/form/div[3]/p[4]/button"
+   },
+   "https://горслужба-ритуал.рф/uslugi/stoimost-pohoron/": {
+      "click_0": "/html/body/div[1]/section/div[2]/div/div/div[1]/div[2]/div/a",
+      "click_1": "/html/body/div[5]/div/div[9]/div[4]/div/div/div/div/form/div[1]/div[1]/input",
+      "input_2": [
+         "/html/body/div[5]/div/div[9]/div[4]/div/div/div/div/form/div[1]/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[5]/div/div[9]/div[4]/div/div/div/div/form/div[1]/div[2]/input",
+      "input_4": [
+         "/html/body/div[5]/div/div[9]/div[4]/div/div/div/div/form/div[1]/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[5]/div/div[9]/div[4]/div/div/div/div/form/div[1]/div[5]/div/label",
+      "click_7": "/html/body/div[5]/div/div[9]/div[4]/div/div/div/div/form/div[1]/a"
+   },
+   "https://mos-ritualservis.ru/": {
+      "click_0": "/html/body/div[2]/div[4]/div[1]/div/span/div",
+      "click_1": "/html/body/div[10]/table/tbody/tr/td/div/div[2]/div[2]/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[10]/table/tbody/tr/td/div/div[2]/div[2]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[10]/table/tbody/tr/td/div/div[2]/div[2]/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[10]/table/tbody/tr/td/div/div[2]/div[2]/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[10]/table/tbody/tr/td/div/div[2]/div[2]/form/input[2]"
+   },
+   "https://www.vek-ritual.ru/constructor/organizatsiya-pokhoron/": {
+      "click_0": "/html/body/div/header/div/div[1]/div[4]/div/div[1]/a",
+      "click_1": "/html/body/div[2]/div/div/div/div/div/form/div/div[3]/div[1]/div[2]/input",
+      "input_2": [
+         "/html/body/div[2]/div/div/div/div/div/form/div/div[3]/div[1]/div[2]/input",
+         "phone"
+      ],
+      "click_3": "/html/body/div[2]/div/div/div/div/div/form/div/div[3]/div[2]/div[2]/input",
+      "input_4": [
+         "/html/body/div[2]/div/div/div/div/div/form/div/div[3]/div[2]/div[2]/input",
+         "name"
+      ],
+      "click_5": "/html/body/div[2]/div/div/div/div/div/form/div/div[3]/div[4]/div[2]/button"
+   },
+   "https://ритуальные-услуги-москва.рф/": {
+      "click_0": "/html/body/div[1]/div[2]/div[2]/div[1]/header/div[1]/button[2]",
+      "click_1": "/html/body/div[1]/div[2]/div[2]/div[1]/div[1]/div/div[1]/form/div[1]/input",
+      "input_2": [
+         "/html/body/div[1]/div[2]/div[2]/div[1]/div[1]/div/div[1]/form/div[1]/input",
+         "name"
+      ],
+      "click_3": "/html/body/div[1]/div[2]/div[2]/div[1]/div[1]/div/div[1]/form/div[2]/input",
+      "input_4": [
+         "/html/body/div[1]/div[2]/div[2]/div[1]/div[1]/div/div[1]/form/div[2]/input",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[1]/div[2]/div[2]/div[1]/div[1]/div/div[1]/form/button"
+   },
+   "https://похрони.рф/checkout": {
+      "click_0": "/html/body/div[3]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[4]/div[2]/input",
+      "input_1": [
+         "/html/body/div[3]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div[1]/div/div[2]/div/div[4]/div[2]/input",
+         "phone"
+      ],
+      "click_2": "/html/body/div[3]/div/div/div[2]/div/div[2]/div/div[2]/div/div/div[2]/div[2]/div/div[2]/div/div[2]/div[3]/span"
+   },
+   "https://mritual.ru/": {
+      "click_0": "/html/body/footer/div/div/div[2]/div/div/a",
+      "click_1": "/html/body/div[5]/form/input[4]",
+      "input_2": [
+         "/html/body/div[5]/form/input[4]",
+         "name"
+      ],
+      "click_3": "/html/body/div[5]/form/input[5]",
+      "input_4": [
+         "/html/body/div[5]/form/input[5]",
+         "phone_without_county_code"
+      ],
+      "click_5": "/html/body/div[5]/form/input[6]"
+   }
+}
