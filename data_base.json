@@ -3073,7 +3073,7 @@
       ],
       "click_5": "/html/body/div[2]/div/div/form/div[3]/button"
    },
-   "\nhttps://novosibirsk.livoice.ru/": {
+   "https://novosibirsk.livoice.ru/": {
       "click_0": "/html/body/div[1]/div[1]/div[2]/div/div[2]/div/a",
       "click_1": "/html/body/div[1]/div[3]/form/input[4]",
       "input_2": [
