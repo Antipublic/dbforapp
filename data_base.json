@@ -656,7 +656,7 @@
       "click_0": "/html/body/div[9]/section[8]/div/div/form/div[1]/div[1]/input",
       "input_1": [
          "/html/body/div[9]/section[8]/div/div/form/div[1]/div[1]/input",
-         "name"
+         "name
       ],
       "click_2": "/html/body/div[9]/section[8]/div/div/form/div[1]/div[2]/input",
       "input_3": [
@@ -1137,7 +1137,7 @@
       ],
       "click_5": "/html/body/div[2]/div/div[1]/form/div[3]/button"
    },
-   "\nhttps://www.zdorovo365.ru/zakazat-obratniy-zvonok.html": {
+   "https://www.zdorovo365.ru/zakazat-obratniy-zvonok.html": {
       "click_0": "/html/body/div[3]/div/form/div[1]/input",
       "input_1": [
          "/html/body/div[3]/div/form/div[1]/input",
